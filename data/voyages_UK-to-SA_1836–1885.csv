@@ -1,0 +1,973 @@
+vessel_name,year,num_deaths,num_passengers,num_adults,num_children,uk_port,aus_port,num_infant_deaths,num_child_deaths,num_adult_deaths,num_live_births,notes,source,passenger_deaths_percent,num_arriving_passengers
+Emma,1836,0.0,38.0,28.0,10.0,London,"Kangaroo Island_& 
+Glenelg ",0.0,0.0,0.0,,No Deaths,as above,0.0,38.0
+Tam O'Shanter,1836,1.0,74.0,57.0,17.0,London,"Kangaroo Island_& 
+Glenelg ",0.0,0.0,1.0,,Death = 1 adult female no age or cause of death,as above,1.3513513513513513,73.0
+John Pirie,1836,1.0,43.0,32.0,11.0,London,"Kangaroo Island_& 
+Glenelg ",0.0,0.0,1.0,0.0,Death = adult female no age or cause of death,as above,2.3255813953488373,42.0
+Cygnet,1836,0.0,84.0,67.0,17.0,London,"Kangaroo Island_& 
+Glenelg ",0.0,0.0,0.0,1.0,No Deaths,as above,0.0,84.0
+Africaine,1836,2.0,105.0,76.0,29.0,London,"Kangaroo Island_& 
+Glenelg ",0.0,0.0,2.0,1.0,Deaths = two adult males died in the bush on KI,as above,1.9047619047619049,103.0
+Duke of York,1836,1.0,42.0,38.0,4.0,London,"Kangaroo Island_& 
+Glenelg ",1.0,0.0,0.0,1.0, Deaths = infant under 1 yr.,"https://www.pioneerssa.org.au/sameships_ships_1836-1846.html from •	South Australian Records Prior to 1841 (Opie)
+•Migrant Ships for South Australia 1836-1866 (Ronald Parsons), Shipping Arrivals and Departures South Australia 1627-1850 (Sexton); The Land of Promise (John Stephens)",2.380952380952381,41.0
+Lady Mary Pelham,1836,1.0,29.0,27.0,2.0,Liverpool,"Kangaroo Island_& 
+Glenelg ",0.0,0.0,0.0,0.0,"Deaths = 2 adult males. One man  age 25 yrs- ""first mate- excessive drinking brought on brain fever - died after 4 days of delirium - barley one month at sea"". Other man was also crew no age or cause of death",chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.pioneerssa.org.au/files/Pub%20119_Early%20Deaths%20Edition%203%20.pdf,3.4482758620689653,28.0
+HMS Buffalo,1836,2.0,176.0,124.0,52.0,Portsmouth,Port Lincoln_Glenelg,0.0,0.0,2.0,0.0," Deaths = 2 adult males no age given. One lost over board & one died of consumption.     87 x ""Assisted/free Passage labourers"". Passengers = adults = 52 males & 35 female. Incl. The new Governor & family",chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.pioneerssa.org.au/files/Pub%20119_Early%20Deaths%20Edition%203%20.pdf,1.1363636363636365,174.0
+Rapid,1836,0.0,48.0,46.0,2.0,London,"Kangaroo Island_& 
+Glenelg ",0.0,0.0,0.0,,No Deaths.  The colony's first doctor (DR John Woodforde),as above,0.0,48.0
+South Australian,1837,0.0,63.0,46.0,17.0,Plymouth,Kangaroo Island,0.0,0.0,0.0,1.0,Arrival in KI on 22.04.1837.,as above,0.0,63.0
+Sarah & Elizabeth,1837,0.0,40.0,38.0,2.0,Hull,Kangaroo Island,0.0,0.0,0.0,1.0,No Deaths,as above,0.0,40.0
+Hartley,1837,0.0,108.0,57.0,51.0,Gravesend,Port Adelaide,0.0,1.0,0.0,3.0,Arrival in Port Adelaide on 28.10.1837,as above,0.0,108.0
+Coromandel,1837,2.0,156.0,124.0,32.0,Deal,Kangaroo Island_Glenelg ,1.0,1.0,0.0,2.0," Deaths = infant under 1 yr & a 1.5 yr old child no cause given.     113 x ""Assisted/free Passage labourers"" adults (57 males & 56 female) 32 children",as above  https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1837,1.282051282051282,154.0
+Isabella,1837,0.0,13.0,,,London,Glenelg,0.0,0.0,0.0,0.0,Arrival in Glenelg on 11.02.1837.  ,as above  https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1837,0.0,13.0
+Lady Emma,1837,1.0,109.0,67.0,42.0,Gravesend,Port Adelaide,0.0,1.0,0.0,1.0,Death = child age unknown or cause of death,as above,0.9174311926605505,108.0
+Navarino,1837,2.0,217.0,151.0,66.0,Gravesend,Port Adelaide,0.0,0.0,1.0,0.0,Death = adult female & adult male no age or cause of death,as above,0.9216589861751152,215.0
+John Renwick,1837,3.0,140.0,106.0,34.0,Gravesend,Glenelg & Port Adelaide,1.0,0.0,1.0,2.0,"Deaths = one infant & one adult male . SHAND, Mr (//-//1837) Died at sea, suddenly. A drunkard Chronicle 1/1/1898 p21b.Arrival in Glenelg on 09.01.1837 & Port Adelaide on 21.02.1837",as above,2.142857142857143,137.0
+Katherine Stewart Forbes,1837,1.0,222.0,143.0,79.0,Gravesend,Port Adelaide,0.0,0.0,2.0,1.0,Death = adult female no age or cause of death,https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1837,0.45045045045045046,221.0
+Rajasthan,1838,1.0,235.0,171.0,64.0,London,Port Adelaide,0.0,1.0,0.0,1.0,"Death = child 6 yrs no cause given.       ASHTON, William Baker (c1803-28/4/1854) Born England. Died Adelaide SA. Police officer from England. Adelaide Gaol Governor, farmer; Adelaide. ",as above,0.425531914893617,234.0
+Henry Porcher,1838,0.0,140.0,99.0,41.0,London,Port Adelaide,0.0,0.0,0.0,1.0,Arrival in Port Adelaide on 01.07.1838,as above,0.0,140.0
+Catherine Jamieson,1838,0.0,37.0,37.0,0.0,Leith,Port Adelaide,0.0,0.0,0.0,1.0,No Deaths,as above,0.0,37.0
+Canton,1838,0.0,143.0,83.0,60.0,London,Port Adelaide,0.0,0.0,0.0,0.0,No Deaths,as above,0.0,143.0
+Prince George,1838,1.0,199.0,126.0,73.0,London,Port Adelaide,1.0,0.0,0.0,0.0,Death = infant - 7 months - burnt to death,as above,0.5025125628140703,198.0
+Lloyds,1838,0.0,181.0,120.0,61.0,London,Port Adelaide,0.0,0.0,0.0,1.0,No Deaths,as above,0.0,181.0
+Surry,1838,4.0,106.0,82.0,24.0,London,Port Adelaide,0.0,4.0,0.0,1.0,Deaths = all children - no age or cause of death_32 german passengers _,as above,3.7735849056603774,102.0
+Royal Admiral,1838,0.0,208.0,139.0,69.0,London_Falmouth_Gravesend,Port Adelaide,0.0,0.0,0.0,1.0,No deaths,as above,0.0,208.0
+Glenalvon,1838,0.0,17.0,12.0,5.0,London,Port Adelaide,0.0,0.0,0.0,0.0,No Deaths,as above,0.0,17.0
+Pestonjee Bomanjee,1838,1.0,230.0,160.0,70.0,London,Glenelg,0.0,1.0,0.0,1.0,Deaths = child age 2 yrs - no cause given___230 in steerage _ ,as above,0.43478260869565216,229.0
+Lord Goderich,1838,0.0,157.0,111.0,46.0,London,Port Adelaide,0.0,0.0,0.0,2.0,No Deaths,as above,0.0,157.0
+Winchester,1838,10.0,121.0,73.0,48.0,London,Port Adelaide,1.0,8.0,1.0,2.0,Deaths = infant born & died at sea. No age range or cause of death for the children or adult,as above,8.264462809917356,111.0
+Duke of Roxburgh,1838,0.0,84.0,65.0,19.0,London,Kangaroo Island & Glenelg ,0.0,0.0,0.0,0.0,No deaths,as above,0.0,84.0
+Eden,1838,1.0,228.0,149.0,79.0,London_Portsmouth,Port Adelaide,0.0,0.0,1.0,2.0,Death = adult male - no age or cause of death,as above,0.43859649122807015,227.0
+The Trusty,1838,0.0,129.0,96.0,33.0,London,Port Adelaide,0.0,0.0,0.0,1.0,No deaths,as above,0.0,129.0
+Caroline,1839,,118.0,99.0,17.0,London_Gravesend_Plymouth,Port Adelaide,,,,2.0,,as above  https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1837,,118.0
+Resource,1839,30.0,211.0,117.0,94.0,London,Port Adelaide,1.0,2.0,2.0,1.0,"Death = infant born & died at sea.  children age range 2 - 4 yrs = ""FOLLAND, Ellen (//c1836-//1838) Died at sea, the 1st to succumb to a mysterious illness, which claimed c30 persons mainly children & 4 yr old sister.""  
+Adult male age 29 yrs , adult female age unknown",as above  https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1837,14.218009478672986,181.0
+Recovery,1839,3.0,237.0,152.0,85.0,London,Port Adelaide,0.0,3.0,0.0,,Deaths = children no ages or causes of death given,as above  https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1837,1.2658227848101267,234.0
+Dehli,1839,9.0,167.0,105.0,62.0,Liverpool,Port Adelaide,0.0,9.0,0.0,3.0,Deaths = children over 1 yr no specific age or causes of death,as above  https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1837,5.389221556886228,158.0
+Orleana,1839,0.0,95.0,63.0,32.0,Liverpool,Port Adelaide,0.0,0.0,0.0,0.0,No deaths,as above,0.0,95.0
+Dawsons,1839,0.0,13.0,7.0,6.0,London,Port Adelaide,0.0,0.0,0.0,0.0,No Deaths,as above  https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1837,0.0,13.0
+Welcome,1839,0.0,30.0,24.0,6.0,Greenock,Port Adelaide,0.0,0.0,0.0,0.0,No deaths,as above  https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1837,0.0,30.0
+Asia,1839,8.0,245.0,138.0,107.0,London,Port Adelaide,0.0,8.0,0.0,1.0,Deaths = children  unknown age - some listed as died due to Measles,as above  https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1837,3.2653061224489797,237.0
+Palmyra,1839,,150.0,136.0,14.0,Greenock,Port Adelaide,,,,,,as above  https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1837,,150.0
+Indus,1839,0.0,73.0,66.0,7.0,Dundee,Port Adelaide,0.0,0.0,0.0,0.0,No deaths,as above,0.0,73.0
+Prince Regent,1839,20.0,199.0,168.0,31.0,London,Port Adelaide,0.0,20.0,0.0,,Deaths =children ages not given - possible Measles____ 23 deaths are listed at the top of passenger list but no details,as above  https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1837,10.050251256281408,179.0
+William Barrass,1839,0.0,16.0,16.0,0.0,London,Port Adelaide,0.0,0.0,0.0,0.0,,,0.0,16.0
+Porter,1839,0.0,23.0,12.0,11.0,Liverpool,Port Adelaide,0.0,0.0,0.0,0.0,No deaths,as above  https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1837,0.0,23.0
+Plantina,1839,9.0,105.0,59.0,46.0,London,Port Adelaide,,3.0,1.0,1.0,Deaths = infnat born & died at sea. Child age 4 yrs. Other children - no ages given. adult female ahe 37 yrs no cause of death given,as above  https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1837,8.571428571428571,96.0
+Planter,1839,1.0,95.0,66.0,29.0,London,Port Adelaide,0.0,0.0,1.0,1.0,Deaths = adult female no age or cause of death,as above  https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1837,1.0526315789473684,94.0
+Moffatt,1839,20.0,316.0,174.0,142.0,London,Port Adelaide,7.0,10.0,3.0,12.0,"Deaths = three infants incl a set of twins were born but died at sea. Children between 1- 10 yrs of age. Three adult females age range 18-25 yrs. Causes of death listed as concussion, fever and aploplexy respectively.
+ Passenger list states that 28 people died of natural causes on board, and two more drowned = 30 dead",as above  https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1837,6.329113924050633,296.0
+Katherine Stewart Forbes,1839,2.0,83.0,45.0,10.0,London_Portsmouth,Port Adelaide,1.0,0.0,1.0,0.0,Deaths = infant under 1 yr & adult female - married - no age or cause of death,as above  https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1837,2.4096385542168677,81.0
+Buckinghamshire,1839,5.0,512.0,332.0,180.0,London_Portsmouth,Port Adelaide,0.0,4.0,1.0,0.0,"Deaths = children & adult female - no ages54 cabin, 15 steerage & 443 SA Commissioners emigrants",,0.9765625,507.0
+D'Auvergne,1839,,170.0,98.0,72.0,London,Port Adelaide,,,,,,as above  https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1837,,170.0
+Dorset,1839,0.0,14.0,7.0,7.0,Liverpool,Port Adelaide,0.0,0.0,0.0,0.0,No Deaths,as above  https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1837,0.0,14.0
+City of Adelaide,1839,,75.0,64.0,11.0,London,Port Adelaide,,,,,,as above  https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1837,,75.0
+Alice Brooks,1839,0.0,17.0,15.0,2.0,Liverpool,Port Adelaide,0.0,0.0,0.0,0.0,,,0.0,17.0
+Fairfield,1839,0.0,115.0,83.0,32.0,Liverpool,Port Adelaide,0.0,0.0,0.0,,No deaths ___5 months at sea,as above  https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1837,0.0,115.0
+Lysander,1839,4.0,218.0,110.0,108.0,Liverpool,Port Adelaide,2.0,1.0,1.0,7.0,Deaths = two infants born & died at sea. Child & adult female - married - no age - no cause of death,as above  https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1837,1.834862385321101,214.0
+Superb,1839,,49.0,35.0,14.0,Greenock,Port Adelaide,,,,,,as above  https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1837,,49.0
+Ganges,1839,0.0,60.0,45.0,15.0,London,Port Adelaide,0.0,0.0,0.0,,No Death,as above  https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1837,0.0,60.0
+Somersetshire,1839,,234.0,136.0,98.0,London,"Ran aground between
+Glenelg & Semaphore",,,,,Ship ran aground between Glenelg and the Semaphore and sailors ‘piggybacked’ the passengers ashore.,as above  https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1837,,234.0
+Sir Charles forbes,1839,0.0,183.0,124.0,59.0,Liverpool,Port Adelaide,0.0,0.0,0.0,0.0,No Deaths,as above  https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1837,0.0,183.0
+Singapore,1839,,96.0,74.0,22.0,London,Port Adelaide,,,,,,as above  https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1837,,96.0
+Georgiana,1839,,70.0,68.0,2.0,Leith,Port Adelaide,,,,,,as above  https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1837,,70.0
+Ariadne,1839,,108.0,71.0,37.0,Greenock,Port Adelaide,,,,,,as above  https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1837,,108.0
+Seppings,1839,0.0,36.0,21.0,15.0,London,Port Adelaide,0.0,0.0,0.0,0.0,No deaths,as above  https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1837,0.0,36.0
+Lady Bute,1839,0.0,61.0,53.0,8.0,Greenock_Maderia,Port Adelaide,,,,,NO deaths,as above  https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1837,0.0,61.0
+Bardaster,1839,0.0,66.0,44.0,22.0,London,Port Adelaide,0.0,0.0,0.0,0.0,No Deaths,,0.0,66.0
+Anna Robertson,1839,1.0,118.0,98.0,20.0,London,Port Adelaide,0.0,0.0,1.0,1.0,Death = one adult female no age or cause of deth given,,0.847457627118644,117.0
+Dumfries,1839,,60.0,31.0,29.0,London,Port Adelaide,,,,,,,,60.0
+Thomas Harrison,1839,3.0,103.0,70.0,25.0,London_Deal,Port Adelaide,3.0,0.0,0.0,0.0,Deaths = infants under 1 yr,as above  https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1837,2.912621359223301,100.0
+Cleveland,1839,,189.0,118.0,71.0,London_Plymouth,Port Adelaide,,,,2.0,,as above  https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1837,,189.0
+Duchess of Northumberland,1839,17.0,251.0,186.0,65.0,London,Port Adelaide,6.0,7.0,4.0,7.0,"Deaths = infants under 1 yr. Children - no age given_ Adults  Cholera _ Diarrhoea_Brain feverGEAR, Captain Frederick. - The Colton and Hewett families were supposed to have chartered this vessel to bring their families, servants, livestock and equipment to SA. Official stats issued 28/12/1839. 59 males, 60 females, 107 children = 226",https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_late_1839,6.772908366533864,234.0
+Hooghly,1839,1.0,290.0,168.0,122.0,London,Port Adelaide,0.0,0.0,1.0,,Deaths = adult female age 19 yrs,as above  https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1837,0.3448275862068966,289.0
+Glenswilly,1839,5.0,41.0,20.0,21.0,Greenock,Port Adelaide,0.0,8.0,0.0,8.0,Deaths = children no ages or causes of death given,as above  https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1837,12.195121951219512,36.0
+Lady Lilford,1839,1.0,203.0,110.0,93.0,Liverpool,Port Adelaide,0.0,1.0,0.0,4.0,Death = 1 child no age or case of death,as above  https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1837,0.49261083743842365,202.0
+Lalla Rookh,1840,1.0,129.0,80.0,49.0,London,Port Adelaide,0.0,1.0,0.0,,"Death = one child or infant- age unknow or cause of death___11 cabin, 15 intermediate & 93 steerage
+",https://localas above  https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1837wiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1842,0.7751937984496124,128.0
+Martin Luther,1840,,16.0,12.0,4.0,Greenock,Port Adelaide,,,,,,https://localas above  https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1837wiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1842,,16.0
+Lysander,1840,,220.0,209.0,11.0,London_Plymouth,Port Adelaide,,,,,,,,220.0
+Brightman,1840,4.0,174.0,120.0,53.0,London_Plymouth_Cork,Port Adelaide,0.0,2.0,2.0,5.0,Deaths = two children & two adult females - ages unknown or cause of death.  100 steerage,https://localas above  https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1837wiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1842,2.2988505747126435,170.0
+Helen Thompson,1840,,28.0,26.0,2.0,Greenock,Port Adelaide,,,,,,https://localas above  https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1837wiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1842,,28.0
+Java,1840,11.0,491.0,318.0,173.0,London_Plymouth,Port Adelaide,0.0,7.0,3.0,,"Deaths = children age 1-11 yrs. two adult malse & one female.
+470 steerage passengers. DUTHIE, Captain Alexander - Went on trial for his dreadful treatment of the migrants. 
+Brought out sheep, intending to settle. The most notorious emigrant ship of the early colonial period. 
+Besides 2 named cabin passengers, 2 unnamed emigrants and a number of children died during the voyage. WATSON, Peter (//-//) Died at sea. The lid of the coffin flew open as it descended into the sea - the body floated and would not sink. From Co Dublin, Ireland.",as above  https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1837,2.240325865580448,480.0
+Indus,1840,,42.0,30.0,12.0,Leith,Port Adelaide,,,,1.0,"8 cabin, 5 intermediate & 30 steerage. 20 commissioner's emigrants from Leith, Scotland",https://localas above  https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1837wiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1842,,42.0
+India,1840,,94.0,91.0,3.0,Greenock,Port Adelaide,,,,,,https://localas above  https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1837wiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1842,,94.0
+Mary Dungdale,1840,6.0,205.0,110.0,95.0,Bristol_Dublin,Port Adelaide,0.0,6.0,0.0,,Deaths = all children ages & cause of deaths unknown,as above  https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1837,2.9268292682926833,199.0
+Harvest Home,1840,0.0,15.0,10.0,5.0,Dundee,Port Adelaide,0.0,0.0,0.0,0.0,,,0.0,15.0
+Charles Kerr,1840,2.0,216.0,124.0,92.0,London_Gravesend,Port Adelaide,0.0,1.0,1.0,,Deaths = one child and one adult male. Ages and causes of deaths unknown,https://localas above  https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1837wiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1842,0.9259259259259258,214.0
+Fairlee,1840,3.0,275.0,170.0,105.0,London,Port Adelaide,0.0,3.0,0.0,,Deaths = children age 2 -7 yrs no cause of death given,https://localas above  https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1837wiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1842,1.090909090909091,272.0
+Fairfield,1840,35.0,186.0,66.0,120.0,London_Plymouth_,Port Adelaide,30.0,3.0,2.0,5.0,Deaths = passenger list states that 35 people died at sea. Fever,as above  https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1837,18.817204301075268,151.0
+City of London,1840,,25.0,17.0,8.0,London,Port Adelaide,,,,,,https://localas above  https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1837wiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1842,,25.0
+Eliza,1840,1.0,159.0,94.0,63.0,London,Port Adelaide,0.0,1.0,0.0,,Death = child 1 yr. unknown cause of death._____157 steerage &  2 in cabin,https://localas above  https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1837wiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1842,0.628930817610063,158.0
+Diadem,1840,2.0,190.0,,,London_Plymouth,Port Adelaide,0.0,1.0,1.0,,Deaths = one child age 1 yr & one adult female- cause of death unknown__150 emigrants,,1.0526315789473684,188.0
+Dauntless,1840,,110.0,75.0,35.0,Greenock,Port Adelaide,,,,,,https://localas above  https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1837wiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1842,,110.0
+Culdee,1840,,21.0,21.0,0.0,Greenock,Port Adelaide,,,,,,https://localas above  https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1837wiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1842,,21.0
+Courier,1840,1.0,11.0,10.0,1.0,London,Port Adelaide,0.0,0.0,1.0,,Death = adult male approx 40 yrs cause of death unknown,https://localas above  https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1837wiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1842,9.090909090909092,10.0
+John,1840,6.0,224.0,164.0,60.0,London,Port Adelaide,1.0,3.0,2.0,1.0,"Deaths = infant born and died at sea . Adult female possibly mother of infant - listed as brian fever but may have died due to childbirth. Children - unknown ages and cause of death. Adult male unknown age and cause of death but was husband of adult female who died at sea. 
+8 cabin, 16 intermediate & 200 steerage passengers",https://localas above  https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1837wiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1842,2.6785714285714284,218.0
+Birman,1840,,218.0,138.0,80.0,Greenock_Cork,Port Adelaide,,,,,,https://localas above  https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1837wiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1842,,218.0
+Branken Moor,1840,,73.0,48.0,25.0,London,Port Adelaide,,,,1.0,,https://localas above  https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1837wiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1842,,73.0
+Apolline,1840,,28.0,23.0,5.0,London,Port Adelaide,,,,,,https://localas above  https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1837wiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1842,,28.0
+Superb,1840,,32.0,19.0,13.0,Liverpool,Port Adelaide,,,,,,https://localas above  https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1837wiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1842,,32.0
+Rajahsthan,1840,,183.0,109.0,74.0,London,Port Adelaide,,,,,,https://localas above  https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1837wiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1842,,183.0
+Royal Admiral ,1840,,146.0,56.0,90.0,London,Port Adelaide,,,,,,,,146.0
+Thirteen,1840,,56.0,38.0,18.0,London_Portsmouth,Port Adelaide,,,,1.0,,https://localas above  https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1837wiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1842,,56.0
+Bamboo,1840,2.0,199.0,126.0,73.0,Liverpool,Port Adelaide,1.0,0.0,1.0,,Deaths = one infant or child age unknown. Adult married female - age & cause of death unknown,https://localas above  https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1837wiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1842,1.0050251256281406,197.0
+Orissa,1840,,117.0,64.0,53.0,London_Liverpool_,Port Adelaide,,,,,,https://localas above  https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1837wiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1842,,117.0
+Tomatin,1840,2.0,119.0,99.0,20.0,Greenock,Port Adelaide,0.0,2.0,0.0,,Deaths = two children ages unknown or cause of death.  100 steerage,https://localas above  https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1837wiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1842,1.680672268907563,117.0
+Warrior,1840,,126.0,88.0,38.0,London_Plymouth,Port Adelaide,,,,,"2 steam engines, I flour mill",https://localas above  https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1837wiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1842,,126.0
+Orleana,1840,2.0,260.0,140.0,120.0,London,Port Adelaide,0.0,0.0,1.0,2.0,Death = adult female married - age and cause of death unknown,https://localas above  https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1837wiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1842,0.7692307692307693,258.0
+William Mitchell,1840,,160.0,79.0,81.0,London,Port Adelaide,,,,,,https://localas above  https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1837wiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1842,,160.0
+Morley,1840,,192.0,117.0,75.0,London_Plymouth,Port Adelaide,,,,1.0,,,,192.0
+William Nichol,1840,1.0,190.0,134.0,56.0,Greenock_Dublin,Port Adelaide,0.0,1.0,0.0,,Death = child age unknown or cause of death,https://localas above  https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1837wiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1842,0.5263157894736842,189.0
+Waterloo,1840,,220.0,146.0,74.0,London_Falmouth,Port Adelaide,,,,,"11 cabin & 209 Commissioners' emigrants
+",https://localas above  https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1837wiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1842,,220.0
+Clydeside,1841,,14.0,,,The Clyde,Port Adelaide,,,,,,https://localas above  https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1837wiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1842,,14.0
+Christina,1841,,14.0,14.0,0.0,London,Port Adelaide,,,,,,https://localas above  https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1837wiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1842,,14.0
+John Cooper,1841,,90.0,,,Greenock & Cork,Port Adelaide,,,,,"14 cabin, 20 intermediate, 56 steerage",https://localas above  https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1837wiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1842,,90.0
+Siam,1841,,41.0,,,London_Plymouth_Dublin,Port Adelaide,,,,,,https://localas above  https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1837wiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1842,,41.0
+Fama,1841,,12.0,,,London,Port Adelaide,,,,,,https://localas above  https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1837wiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1842,,12.0
+Corsair,1841,,11.0,11.0,0.0,London,Port Adelaide,,,,,,https://localas above  https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1837wiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1842,,11.0
+James Turcan,1841,,16.0,,,London,Port Adelaide,,,,,,https://localas above  https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1837wiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1842,,16.0
+Orissa,1841,,23.0,15.0,8.0,London,Port Adelaide,,,,,,https://localas above  https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1837wiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1842,,23.0
+Caleb Angas,1842,,22.0,17.0,5.0,London,Port Adelaide,,,,,,https://localas above  https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1837wiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1842,,22.0
+Taglioni,1842,,37.0,32.0,5.0,London,Port Adelaide,,,,,,,,37.0
+Lady Fitzherbert,1842,,40.0,,,London_Plymouth_,Port Adelaide,,,,,,,,40.0
+Guiana,1842,0.0,11.0,11.0,0.0,London,Port Adelaide,0.0,0.0,0.0,,At sea for 185 days due to bad weather,https://localas above  https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1837wiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1842,0.0,11.0
+Countess of Durham,1842,,25.0,15.0,10.0,London,Port Adelaide,,,,,,,,25.0
+Fortitude,1842,,27.0,25.0,2.0,London,Port Adelaide,,,,,,https://localas above  https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1837wiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1842,,27.0
+Barque_Arab ,1843,1.0,30.0,27.0,3.0,London,Port Adelaide,0.0,2.0,0.0,,Death = child age 2 yrs -cause unknown,,3.3333333333333335,29.0
+Camoena,1843,,17.0,,,Leith,Port Adelaide,,,,,,,,17.0
+Madras,1843,,41.0,32.0,9.0,London_Plymouth ,Port Adelaide,,,,,,,,41.0
+Francis Spaight,1843,,100.0,81.0,19.0,London & Tor Bay,Port Adelaide,,,,,,,,100.0
+Brig_Arab ,1843,0.0,16.0,16.0,0.0,Liverpool,Port Adelaide,0.0,0.0,0.0,,,,0.0,16.0
+Augustus,1843,,24.0,24.0,0.0,London,Port Adelaide,,,,,,,,24.0
+Mary White,1844,,21.0,16.0,5.0,Liverpool_,Port Adelaide,,,,,,,,21.0
+Symmetry,1844,,17.0,15.0,2.0,Leith,Port Adelaide,,,,,,,,17.0
+Taglioni,1844,,48.0,43.0,5.0,London & Deal,Port Adelaide,,,,,Passengers,,,48.0
+John Heyes,1844,,25.0,,,London,Port Adelaide,,,,,,,,25.0
+Royal archer,1845,,25.0,22.0,3.0,Liverpool,Port Adelaide,,,,,,,,25.0
+Symmetry,1845,,12.0,12.0,0.0,London,Port Adelaide,,,,,,,,12.0
+Joseph Albino,1845,,12.0,8.0,4.0,London,Port Adelaide,,,,,,,,12.0
+Augustus,1845,,19.0,15.0,4.0,London,Port Adelaide,,,,,,,,19.0
+Templar,1845,3.0,109.0,83.0,26.0,London,Port Adelaide,0.0,2.0,1.0,,Deaths = children - whooping cough & one aduklt female - sea sickness,,2.7522935779816518,106.0
+William Wise,1845,,17.0,9.0,8.0,London,Port Adelaide,,,,,,,,17.0
+Isabella Watson,1845,2.0,127.0,98.0,29.0,London_Plymouth ,Port Adelaide,1.0,1.0,0.0,1.0,Deaths = infant born & died at sea.Child age 1 yr. No cause of death,,1.574803149606299,125.0
+Symmetry,1846,,12.0,11.0,1.0,London,Port Adelaide,,,,,,https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1847,,12.0
+Enmore,1846,,15.0,12.0,3.0,London,Port Adelaide,,,,,All Emigrants_steerage?,,,15.0
+Royal Archer,1846,,11.0,11.0,0.0,London_Gravesend,Port Adelaide,,,,,,https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1847,,11.0
+Duke of Richmond,1846,,25.0,15.0,10.0,London_Plymouth_,Port Adelaide,,,,,,,,25.0
+Emu,1846,,21.0,12.0,9.0,London_Gravesend_,Port Adelaide,,,,,,,,21.0
+Medway,1846,,80.0,77.0,3.0,London,Port Adelaide,,,,,,https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1847,,80.0
+Abberton,1846,,193.0,152.0,41.0,London_Plymouth,Port Adelaide,,,,1.0,"8 Cabin pssengers, 185 steerage ",,,193.0
+Hooghly,1846,2.0,255.0,214.0,41.0,London_Plymouth,Port Adelaide,0.0,0.0,2.0,1.0,"Deaths = two adult males - age unknown - one - REYNOLDS, James (//-19/10/1846) Died at sea, during a heavy gale, just before arrival at Pt Adelaide. A stove crushed him. Miner from Cornwall, England. Public subscription list to help the family.180 Emigrants_Steerage?",,0.7843137254901961,253.0
+Kingston,1846,,66.0,,,London_Falmouth,Port Adelaide,,,,,All Emigrants_steerage?,https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1847,,66.0
+Augustus,1846,,14.0,7.0,7.0,London,Port Adelaide,,,,,,,,14.0
+Isabella Watson,1846,,230.0,195.0,35.0,London_Plymouth,Port Adelaide,,,,,All Emigrants_steerage?,https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1847,,230.0
+Phoebe,1846,,190.0,163.0,27.0,London,Port Adelaide,,,,3.0,,https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1847,,190.0
+Canton,1846,1.0,263.0,206.0,57.0,London_Gravesend_Plymouth,Port Adelaide,0.0,1.0,0.0,,Death = child 1 yr - no cause of death,,0.38022813688212925,262.0
+Lay Bruce,1846,11.0,263.0,171.0,92.0,London_Plymouth,Port Adelaide,0.0,10.0,1.0,,"Deaths = 10 children ages and cause of death unknown. One adult female - married also died at sea. 13 Cabin passengers, 250 emigrants_steerage - 22 miners  engaged for the Glen Osmond mine & wives etc. ",https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1847,4.182509505703422,252.0
+Britannia,1846,2.0,147.0,100.0,47.0,London_Plymouth,Port Adelaide,0.0,2.0,0.0,1.0,Deaths = 2 children - unknown age or cause of death,,1.3605442176870748,145.0
+Theresa,1847,3.0,239.0,169.0,70.0,London & Plymouth,Port Adelaide,0.0,3.0,0.0,4.0,Deaths = children age & cause of death unknown,,1.2552301255230125,236.0
+British Sovereign,1847,,244.0,183.0,61.0,London_Plymouth,Port Adelaide,,,,1.0,,https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1847,,244.0
+Lady MacNaghten,1847,2.0,240.0,177.0,63.0,London_Plymouth,Port Adelaide,0.0,1.0,1.0,,"Deaths = one child & one adult male - ages and causes of death unknown__""Emigrants chiefly from Scotland""",,0.8333333333333334,238.0
+Duchess of Northumberland,1847,8.0,254.0,,76178.0,London_Plymouth,Port Adelaide,4.0,4.0,0.0,1.0,"Deaths= 4 infants under 1 yr & 4 children (1 -18 yrs) ages & cause of deaths unknown__"" A pleasant passage of 101 days. She brings 254 emigrants who are chiefly miners from Cornwall"" SA gazzette 30.10.1847",,3.149606299212598,246.0
+Trafalgar,1847,1.0,272.0,187.0,85.0,London_Plymouth,Port Adelaide,0.0,1.0,0.0,,Deaths = female age 16 years (child = 1-18 years),https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1847,0.3676470588235294,271.0
+Derwent,1847,,46.0,42.0,4.0,London,Port Adelaide,,,,,,,,46.0
+Competitor,1847,,40.0,40.0,0.0,London,Port Adelaide,,,,,,,,40.0
+Belle Alliance,1847,,298.0,229.0,69.0,London_Plymouth,Port Adelaide,,,,1.0,,https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1847,,298.0
+David Malcolm,1847,,221.0,194.0,27.0,London_Plymouth,Port Adelaide,,,,,"7 cabin, 160 emigrants_steerage",https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1847,,221.0
+Aboukir,1847,9.0,335.0,,92.0,London_Plymouth,Port Adelaide,0.0,9.0,0.0,,Deaths = children all ages & causes of death unknown,https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1847,2.6865671641791042,326.0
+Nelson,1847,,28.0,25.0,3.0,Leith,Port Adelaide,,,,,,https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1847,,28.0
+Cressy,1847,3.0,272.0,208.0,64.0,London_Plymouth,Port Adelaide,1.0,2.0,0.0,,Deaths = one infant and one child - age & cause of death unknown,https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1847,1.1029411764705883,269.0
+Mariner,1847,,284.0,209.0,75.0,London,Port Adelaide,,,,1.0,"""253 chiefly Ag labourers of a resepctable class in equal porportion of sexes from the southern english counties""",https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1847,,284.0
+Kallibokka,1847,,15.0,15.0,0.0,London & Ramsgate,Port Adelaide,,,,,,https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1847,,15.0
+Phoebe,1847,,234.0,173.0,61.0,London_Plymouth,Port Adelaide,,,,3.0,,https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1847,,234.0
+Elizabeth Thompson,1847,,15.0,15.0,0.0,Liverpool,Port Adelaide,,,,,4 soldiers in steerage,,,15.0
+Hooghly,1847,,10.0,10.0,0.0,London,Port Adelaide,,,,,,,,10.0
+John Bartlett,1847,,24.0,24.0,0.0,London,Port Adelaide,,,,,,https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1847,,24.0
+Gunga,1847,,16.0,11.0,5.0,London,Port Adelaide,,,,,,,,16.0
+Princess Royal,1847,,209.0,157.0,52.0,London_Plymouth,Port Adelaide,,,,1.0,,https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1847,,209.0
+China,1847,,268.0,200.0,68.0,London_Plymouth,Port Adelaide,,,,,,,,268.0
+Rachel,1847,,35.0,15.0,20.0,London,Port Adelaide,,,,,,https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1847,,35.0
+Rajah,1847,1.0,298.0,261.0,37.0,London_Plymouth,Port Adelaide,0.0,0.0,1.0,,Death = one adult female - age & cause of death___unknown158 miners and their failies sent by the English mining Co.,https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1847,0.33557046979865773,297.0
+Royal George,1847,,63.0,48.0,15.0,London,Port Adelaide,,,,,,https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1847,,63.0
+Enmore,1848,1.0,28.0,16.0,12.0,London_Plymouth,Port Adelaide,0.0,0.0,1.0,,Death = one adult male unknown age opr cause of death,,3.571428571428571,27.0
+Harpley,1848,2.0,330.0,,,London,Port Adelaide,,,,,"A mixture of agricultural labourers and Nottingham lace makers who had been living in Calais for eight years. They met the ship in the English Channel, to avoid the 1848 civil disturbances in France. 18 sailors deserted the vessel at Pt Adelaide. 1 adult and 1 child died during the voyage.",,0.6060606060606061,328.0
+David Malcolm,1848,4.0,267.0,197.0,70.0,London,Port Adelaide,2.0,2.0,0.0,4.0,Deaths = 2 infants under 1 yr and 2 children age & cause of death unknown,,1.4981273408239701,263.0
+Onyx,1848,,26.0,,,Guernsey,Port Adelaide,,,,,,,,26.0
+Royal Archer,1848,,23.0,20.0,3.0,London,Port Adelaide,,,,,,,,23.0
+Orbona,1848,,12.0,11.0,1.0,Leith,Port Adelaide,,,,,,,,12.0
+Roman Emperor,1848,0.0,254.0,,,London_Plymouth,Port Adelaide,,,,,8 married couples and 8 children as Govt Emigrants. 238 female 8 male Irish Protestant orphans from the Union Workhouses ‘a rough lot’. No deaths occurred during the voyage. Letter re orphans SA 3/11/1848 p354a,,0.0,254.0
+Hooghly,1848,3.0,132.0,,,London_Plymouth,Port Adelaide,,,,,,,2.272727272727273,129.0
+Navarino,1848,,145.0,,,London_Plymouth,Port Adelaide,,,,,,,,145.0
+Westminster,1848,10.0,302.0,226.0,76.0,London_Plymouth,Port Adelaide,5.0,3.0,2.0,6.0,Deaths = 5 infants  under 1 yr & 3 children & 2 adult females -  no age or cause of death listed,,3.3112582781456954,292.0
+Richardson,1848,,80.0,,,Swansea,Port Adelaide,,,,,5 saliors desserted at Pt Adelaide,,,80.0
+Undaunted,1848,,10.0,6.0,4.0,Leith,Port Adelaide,,,,,,,,10.0
+Royal George,1848,1.0,102.0,,,London_Plymouth,Port Adelaide,,,,,,,0.9803921568627451,101.0
+Poictier,1848,,276.0,,,London,Port Adelaide,,,,,,,,276.0
+Gratitude,1848,,44.0,,,London,Port Adelaide,,,,,,,,44.0
+Santipore,1848,5.0,250.0,,,London_Plymouth,Port Adelaide,,,,,,,2.0,245.0
+Duke of Bedford,1848,,320.0,,,London,Port Adelaide,,,,,Unknown,,,320.0
+Sibella,1848,10.0,180.0,105.0,75.0,London_Plymouth,Port Adelaide,6.0,3.0,2.0,6.0,Deaths =  infants  under 1 yr &  children & 2 adult males -  no age or cause of death listed,,5.555555555555555,170.0
+Thomas Lowry,1848,,162.0,,,London_Plymouth,Port Adelaide,,,,,,,,162.0
+Success,1848,,268.0,186.0,82.0,London,Port Adelaide,,,,,"DR BLOOD,  Surgeon-Superintendent with wife and 7 children",,,268.0
+Forfarshire,1848,1.0,240.0,,,London_Plymouth,Port Adelaide,,,,6.0,,,0.4166666666666667,239.0
+Princess royal,1848,0.0,350.0,275.0,75.0,London,Port Adelaide,0.0,0.0,0.0,8.0,No Deaths - 249 Government immigrants. ,,0.0,350.0
+Symmetry,1848,,22.0,22.0,0.0,London,Port Adelaide,,,,,,,,22.0
+John Bartlett,1848,,44.0,,,London,Port Adelaide,,,,,,,,44.0
+Victoria ,1848,,217.0,146.0,71.0,,,,,,,87 males & 59 females. 71 children,chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.archives.sa.gov.au/__data/assets/pdf_file/0011/829541/GRG35_48_1_48-1A_Victoria.pdf,,217.0
+Hindoo,1848,0.0,40.0,33.0,7.0,London,Port Adelaide,0.0,0.0,0.0,,,,0.0,40.0
+Zealous,1848,,33.0,29.0,4.0,London,Port Adelaide,,,,,,,,33.0
+Competitor,1848,1.0,57.0,,,London,Port Adelaide,,,,,,,1.7543859649122806,56.0
+Constance,1848,,217.0,,,London,Port Adelaide,,,,,"211 Gov emigrants - 52 married couples, 35 single men & 24 single women , 32 boys & 16 girls",,,217.0
+Bussorah Merchant,1848,1.0,285.0,,,London_Plymouth,Port Adelaide,,,,,,,0.3508771929824561,284.0
+Abberton,1848,,76.0,,,London_Plymouth,Port Adelaide,,,,,60 steerage,,,76.0
+Bolton,1848,,260.0,103.0,67.0,London_Plymouth,Port Adelaide,0.0,0.0,1.0,,Death = one  adult male - jumped overboard,,,260.0
+Baboo,1848,1.0,214.0,,,London_Plymouth,Port Adelaide,,,,,Thomas Turner - passenger diary,,0.46728971962616817,213.0
+Cheapside,1849,3.0,255.0,,,London,Port Adelaide,,,,,,,1.1764705882352942,252.0
+Posthumous,1849,,190.0,,,London_Plymouth,Port Adelaide,,,,,Several ladies From Home for Homeless Women London - Sponsored by Charles Dickens and Baroness Burdett-Coutts Sunday Mail 12/9/2004,,,190.0
+Childe Harold,1849,,145.0,,,London_Plymouth,Port Adelaide,,,,,,,,145.0
+Proveidence,1849,,17.0,,,Swansea,Port Adelaide,,,,,,,,17.0
+Augusta,1849,,40.0,,,Bristol,Port Adelaide,,,,,,,,40.0
+Asiatic,1849,,157.0,,,London_Plymouth,Port Adelaide,,,,,The ship lost at sea on its return voyage to England. Observer 3/12/1892 p1037a,,,157.0
+Prince Regent,1849,2.0,293.0,,,Plymouth,Port Adelaide,0.0,2.0,0.0,," Death - two children- ages & cause of deaths unknown___286 governmnet emigrants in steerage 13th ship from England to S.A. with government passengers for 1849 ; Sinclair Blue, surgeon-superintendent.","[GRG 24/6/1849/15_GRG 35/48 Immigrant Ships' Papers_State Records of SA & Colonial Secretary's Office Correspondence (GRG 24/1 and GRG 24/6
+chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://classic.austlii.edu.au/au/other/sa_gazette/1866/4.pdf",0.6825938566552902,291.0
+Pakeham,1849,4.0,277.0,,,Liverpool_Plymouth,Port Adelaide,,,,6.0,,,1.444043321299639,273.0
+Florentina,1849,3.0,245.0,,,London,Port Adelaide,,,,8.0,,,1.2244897959183674,242.0
+Athenian,1849,,111.0,,,London_Plymouth,Port Adelaide,,,,,,,,111.0
+Indian,1849,4.0,259.0,,,London,Port Adelaide,1.0,0.0,1.0,,"Death - one infant under 1 yr,  & one adult- ages & cause of deaths unknown__
+On August 30th 1849 a meeting of the emigrants from on board the INDIAN met at the ""Norfolk Arms in Rundle Street, Adelaide, for the purpose of hearing the statements of a number of persons who were dissatisfied with the way in which the ship was found, and 97 passengers signed complaints against the captain, the 2nd mate, the purser, the captain's clerk, the surgeon and the steward for a range of things including assault, fornication, adultery, selling of ardent spirits, permitting gambling aboard the ship, smoking and drinking between decks and other crimes. 97 passengers assigned complaints against the captain, surgeon, 2nd mate, purser, captain’s clerk and steward for assault, fornication, adultery, selling of ardent spirits, permitting of smoking, gambling, drinking between decks, resulted in gratuities being withheld. He severely reprimanded immigration agent Brewer, who was later dismissed from the post. The Master appeared in the police court 3/10/1849 re false statements concerning stores on board. Public meeting Register 1/9/1849 p282 - extensive reports. Register 3/10/1849 p318.",https://bound-for-south-australia.collections.slsa.sa.gov.au/1849IndianAffair.htm [GRG 24/6/1849/15_GRG 35/48 Immigrant Ships' Papers_State Records of SA & Colonial Secretary's Office Correspondence (GRG 24/1 and GRG 24/6 chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://classic.austlii.edu.au/au/other/sa_gazette/1866/4.pdf,1.5444015444015444,255.0
+John Mitchell,1849,,120.0,,,London_Plymouth,Port Adelaide,,,,,,,,120.0
+Glen Huntley,1849,6.0,225.0,,,London_Plymouth,Port Adelaide,,,,,,,2.666666666666667,219.0
+Ascendant,1849,7.0,253.0,,,London_Plymouth,Port Adelaide,3.0,3.0,1.0,,"Death - 3 infants under 1 yr, 3  children & 1 adult  - ages & cause of deaths unknown__",,2.766798418972332,246.0
+Robert Henderson,1849,1.0,16.0,,,London,Port Adelaide,,,,,,,6.25,15.0
+Royal Sovereign,1849,,152.0,,,London_Plymouth,Port Adelaide,,,,,"No Government emigrants aboard this vessel. Everyone paid £20 for first class cabins, except for a few who slept in the cuddy for £30. SA Gazette 28/6/1849 p198.",,,152.0
+Emily ,1849,9.0,229.0,,,London_Plymouth,Port Adelaide,3.0,4.0,2.0,,"Death - 3 infants under 1 yr, 4  children  & 2 adults _ages & cause of deaths unknown__",,3.9301310043668125,220.0
+Samuel Boddington,1849,10.0,255.0,,,London_Plymouth,Port Adelaide,3.0,2.0,2.0,,"Death - 3 infants under 1 yr, 2  children  & 2 adults _ages & cause of deaths unknown__","[GRG 24/6/1849/15_GRG 35/48 Immigrant Ships' Papers_State Records of SA & Colonial Secretary's Office Correspondence (GRG 24/1 and GRG 24/6
+chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://classic.austlii.edu.au/au/other/sa_gazette/1866/4.pdf
+Listed in SA Gov Gazette 25.01.1866",3.9215686274509802,245.0
+Elizabeth,1849,2.0,121.0,,,London_Plymouth,Port Adelaide,,,,,,,1.6528925619834711,119.0
+Eliza ,1849,10.0,350.0,,,London_Plymouth,Port Adelaide,4.0,3.0,3.0,,"Death - 4 infants under 1 yr, 3  children  & 3 adults _ages & cause of deaths unknown__325 emigrants in steerage",,2.857142857142857,340.0
+Elgin,1849,1.0,250.0,,,London_Plymouth,Port Adelaide,,,,,,,0.4,249.0
+Anna Maria,1849,,160.0,,,London,Port Adelaide,,,,,,,,160.0
+Senator,1849,5.0,150.0,,,London,Port Adelaide,,,,,,,3.3333333333333335,145.0
+Simlah,1849,,148.0,,,Plymouth,Port Adelaide,,,,,,"https://www.samemory.sa.gov.au/site/page.cfm?c=7766&mode=singleImage
+https://trove.nla.gov.au/newspaper/article/38435370",,148.0
+Sir Charles forbes,1849,,90.0,,,London_,Port Adelaide,,,,,,,,90.0
+Rajah,1849,,185.0,,,London_Plymouth,Port Adelaide,,,,,,,,185.0
+Ramillies,1849,1.0,287.0,,,London,Port Adelaide,,,,,4 females flogged under his supervision during the voyage. Ship earned the nickname Flogging Ramillies Observer 25/8/1894 p358b,,0.34843205574912894,286.0
+Nestor,1849,1.0,59.0,,,Glasgow,Port Adelaide,1.0,0.0,0.0,,Death - one infant under 1 yr of age,,1.694915254237288,58.0
+Glenelg,1849,1.0,150.0,,,London_Plymouth,Port Adelaide,,,,,"10 cabin, 14 intermediate , 88 _steerage.  Half the crew went on strike 16/2/1849.",,0.6666666666666667,149.0
+Isabella Hercus,1849,,160.0,,,London,Port Adelaide,,,,,,,,160.0
+Inconstant,1849,,329.0,,,London_Plymouth,Port Adelaide,,,,,"209 Irish orphans on aboard_WIRE, Bridget (//c1836-//) Servant; Ophan Depot Adelaide 1851, about to give birth to a child, which a Mr WALKER of the Para Plains was reputed to be the father.",,,329.0
+Jenny Jones,1849,,11.0,10.0,1.0,Swansea,Port Adelaide,,,,,,,,11.0
+Candahar,1849,1.0,180.0,,,Plymouth,Port Adelaide,,,,,"10 cabin pssengers, 16 intermediate, 42 steerage",,0.5555555555555556,179.0
+John Barlett,1849,,22.0,19.0,3.0,London,Port Adelaide,,,,,,,,22.0
+Camilla,1849,,13.0,13.0,0.0,Leith,Port Adelaide,,,,,,,,13.0
+Calphurnia,1849,2.0,207.0,,,London,Port Adelaide,,,,4.0,,,0.966183574879227,205.0
+John Munn,1849,2.0,185.0,,,London_Plymouth,Port Adelaide,,,,, ‘The John Munn will pass into a proverb for everything that is discreditable and vile in regard to the conduct of emigration ships and emigration agents’. Register 10/10/1849 letters re the voyage out.,,1.0810810810810811,183.0
+John Woodall,1849,,180.0,,,London,Port Adelaide,,,,,,,,180.0
+Casper,1849,,118.0,,,London_Plymouth,Port Adelaide,,,,,,,,118.0
+Himalaya,1849,29.0,176.0,,,Portsmouth,Port Adelaide,2.0,2.0,4.0,," Death -2  infants under 1 yr, 2  children  & 4 adults _ages  unknown__SA Gov Gazette 25.01.1866__.29 died from cholera on the voyage, all, except one, north of the equator. 42 passengers became seriously ill but recovered.",,16.477272727272727,147.0
+Britannia,1849,,51.0,,,London_Plymouth,Port Adelaide,,,,,,,,51.0
+Brankenmoor 03.07,1849,3.0,156.0,91.0,65.0,London,Port Adelaide,0.0,2.0,0.0,0.0,Death - two children- ages & cause of deaths unknown___,,1.9230769230769231,153.0
+Louise Baillie,1849,,156.0,,,London_Plymouth,Port Adelaide,,,,,,,,156.0
+Bolton,1849,,150.0,,,London_Plymouth,Port Adelaide,,,,,,,,150.0
+Harry Lorrequer,1849,6.0,353.0,,,London_Plymouth,Port Adelaide,3.0,3.0,0.0,,"Death - 3 infants under 1 yr, & 3  children - ages & cause of deaths unknown__",SA Gov Gazette asdied at sea25.01.1866,1.69971671388102,347.0
+Harpley,1849,,154.0,,,London_Plymouth,Port Adelaide,,,,,Apparently only cabin and intermediate passengers on this vessel. ,,,154.0
+Macedon,1849,,200.0,,,Gravesend_Plymouth,Port Adelaide,,,,,,,,200.0
+Madawaska,1849,,74.0,,,London_Plymouth,Port Adelaide,,,,,,,,74.0
+Marion,1849,3.0,301.0,,,London_Plymouth,Port Adelaide,,,,,"1 cabin, 300 emigrants_steerage, Small pox ",,0.9966777408637874,298.0
+Mary Ann,1849,,230.0,,,Bristol_Plymouth,Port Adelaide,,,,,,,,230.0
+Grecian,1849,,36.0,,,London,Port Adelaide,,,,,,,,36.0
+Gratitude,1849,,25.0,14.0,11.0,Swansea,Port Adelaide,,,,,,,,25.0
+Minvera,1849,5.0,178.0,,,London_Plymouth,Port Adelaide,,,,,,,2.8089887640449436,173.0
+Benjamin Elkin,1849,,21.0,,,London_Plymouth,Port Adelaide,,,,,,,,21.0
+Navarino,1849,,195.0,,,London_Plymouth,Port Adelaide,,,,,4th time this ship brought emigrants to SA. Three of the crew became runaway sailors.,,,195.0
+Duncan,1849,,28.0,,,Leith,Port Adelaide,,,,,,,,28.0
+Orator,1849,3.0,150.0,,,London_Plymouth,Port Adelaide,,,,,,,2.0,147.0
+Sir Edward Parry,1849,,240.0,,,London_Plymouth,Port Adelaide,,,,,,,,240.0
+Psyche,1849,,28.0,,,London,Port Adelaide,,,,,,,,28.0
+Caroline,1849,3.0,172.0,,,Plymouth,Port Adelaide,,,,,,,1.744186046511628,169.0
+Trafalgar 2nd voyage,1849,,45.0,,,London_Plymouth,Port Adelaide,,,,,,"[GRG 24/6/1849/15_GRG 35/48 Immigrant Ships' Papers_State Records of SA & Colonial Secretary's Office Correspondence (GRG 24/1 and GRG 24/6
+chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://classic.austlii.edu.au/au/other/sa_gazette/1866/4.pdf",,45.0
+David Malcolm,1849,2.0,260.0,,,London_Plymouth,Port Adelaide,,,,,,,0.7692307692307693,258.0
+Competitor,1849,,23.0,,,London,Port Adelaide,,,,,,,,23.0
+Trafalgar ,1849,3.0,287.0,,,London,Port Adelaide,1.0,1.0,1.0,,"Death - one infant under 1 yr, one  child & one adult- ages & cause of deaths unknown___","[GRG 24/6/1849/15_GRG 35/48 Immigrant Ships' Papers_State Records of SA & Colonial Secretary's Office Correspondence (GRG 24/1 and GRG 24/6
+chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://classic.austlii.edu.au/au/other/sa_gazette/1866/4.pdf",1.0452961672473868,284.0
+Aden,1849,,168.0,,,London_Plymouth,Port Adelaide,,,,,"Many complaints about captain and officers, including the surgeon ‘He was not only professionally, but was gross and improper in his 
+language and seldom sober’. Detailed letter of complain about happenings during the voyage Register 10/10/1849. Charles refuted SA Mining Gazette 4/10/1849 p312 col d.",,,168.0
+Derwent,1849,,130.0,,,London,Port Adelaide,,,,,,,,130.0
+WaterWitch,1849,,22.0,24.0,8.0,Guernsey,Port Adelaide,,,,,,,,22.0
+William Hyde,1849,,140.0,,,London_Plymouth,Port Adelaide,,,,,,,,140.0
+William Money,1849,12.0,410.0,,,Bristol_Plymouth,Port Adelaide,6.0,2.0,3.0,,"Death -6  infants under 1 yr, 2  children  & 3 adults _ages & cause of deaths unknown__ except : Sarah, wife of William Rayner died from the effects of chloride of zinc, administered to her in error by the matron [GRG 24/6/1849/14]","[GRG 24/6/1849/15_GRG 35/48 Immigrant Ships' Papers_State Records of SA & Colonial Secretary's Office Correspondence (GRG 24/1 and GRG 24/6
+chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://classic.austlii.edu.au/au/other/sa_gazette/1866/4.pdf",2.9268292682926833,398.0
+Dorothy,1849,,135.0,,,London_Plymouth,Port Adelaide,,,,,,,,135.0
+Susannah,1849,2.0,255.0,,,London_Plymouth,Port Adelaide,,,,,,,0.7843137254901961,253.0
+Cromwell,1849,3.0,262.0,,,London_Plymouth,Port Adelaide,,,,,All the families on this vessel came out at their own expense.,,1.1450381679389312,259.0
+William Watson,1849,,161.0,,,London_Plymouth,Port Adelaide,,,,,,,,161.0
+Abberton,1849,,200.0,,,London,Port Adelaide,,,,,,,,200.0
+Stebonheath,1849,2.0,384.0,,,London_Plymouth,Port Adelaide,,,,,,,0.5208333333333333,382.0
+Culcutta,1849,1.0,90.0,,,London,Port Adelaide,,,,,,,1.1111111111111112,89.0
+Constance ,1849,23.0,293.0,,,London_Plymouth,Port Adelaide,3.0,12.0,4.0,,"Death - 3 infants under 1 yr, 12  children  & 4 adults _ages  unknown. deaths mainly from Cholera. Four more people died immediately after disembarking in Adelaide. Eleven others still suffering from fever were taken to the government funded Adelaide hospital. On recovery they were housed in the government Immigration Depot with their families. Another sixteen were visited at their lodgings by the Colonial Surgeon because the hospital was full. The Destitute Board in Adelaide, which bore the cost of looking after the sick emigrants, was overwhelmed by the arrival of the Constance. The Board complained to Lieutenant Governor Sir H.E.F. Young, pointing the blame for the level of sickness amongst the passengers at the emigrants from the Shirley estate. All, except cabin passengers, were Irish emigrants. The Irish supposed to be the clearing of one single estate. Much sickness and many deaths.77 days at sea! Very fast record breaking time ","https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_late_1849
+Report SAGazette 15/11/1849 p361b. Captain’s Testimonial dinner at Coppin’s Hotel SAGazette 27/11/1849 p377a,b 20 deaths on the voyage AdTimes 8/11/1849 p255.
+https://voicesfromthepast.blog/2018/05/09/the-voyage-of-the-constance/#:~:text=The%20arrival%20of%20the%20Constance,of%20the%20Great%20Circle%20route.
+_listed in 20.01.1866 Gov Gazette__",7.849829351535837,270.0
+Wuzeer,1849,,30.0,26.0,4.0,Leith,Port Adelaide,,,,,,,,30.0
+Duke of Bronte,1849,,170.0,,,London_Plymouth,Port Adelaide,,,,,,,,170.0
+Spartan,1849,,140.0,,,London_Plymouth,Port Adelaide,,,,,,,,140.0
+Duke of Wellington,1849,8.0,247.0,,,London_Plymouth,Port Adelaide,4.0,2.0,0.0,,"Death - 4 infants under 1 yr, 2  children  ages & cause of deaths unknown__",,3.2388663967611335,239.0
+Coromandel,1849,,29.0,,,London_Plymouth,Port Adelaide,,,,,,,,29.0
+Constant,1849,,131.0,,,London_Plymouth,Port Adelaide,,,,,,,,131.0
+William Hyde,1850,,70.0,,,London,Port Adelaide,,,,,,,,70.0
+Hydaspes,1850,,31.0,,,London,Port Adelaide,,,,,,,,31.0
+Candahar,1850,,105.0,,,Gravesend & Plymouth,Port Adelaide,,,,,"GOSS, Captain John ---Some of the passengers later accused the captain and most of the crew of not knowing their jobs.",https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1850,,105.0
+Bolivar,1850,,142.0,,,Gravesend & Plymouth,Port Adelaide,,,,,"MURRAY, Captain William- Fined £20 for selling spirits to the passengers.",,,142.0
+Gypsy Queen,1850,,166.0,,,London_Plymouth,Port Adelaide,,,,,,,,166.0
+Ceylon,1850,,54.0,,,London_Plymouth,Port Adelaide,,,,,,,,54.0
+Grecian,1850,1.0,17.0,,,London,"Wrecked outer habour 
+near Port Adelaide",0.0,0.0,1.0,,"Death  - 1 adult male died. Vessell wrecked Outer Harbor, Gulf St Vincent. 7Km Nw From Port Adelaide. 1/4 Mile Sse From The End Of The Southern","https://trove.nla.gov.au/newspaper/article/36267353
+https://environment.gov.au/shipwreck/public/wreck/wreck.do?key=5398
+https://www.environment.sa.gov.au/topics/heritage/maritime-heritage/visiting-maritime-heritage-places/shipwreck-trails/underwater-heritage-trail",5.88235294117647,16.0
+Troubadour,1850,,134.0,,,Gravesend & Plymouth,Port Adelaide,,,,,,,,134.0
+Condor,1850,,48.0,,,Liverpool,Port Adelaide,,,,,,,,48.0
+Trafalgar 2nd voyage ,1850,0.0,156.0,,,London,Port Adelaide,0.0,0.0,0.0,,Second voyage in 1850,,0.0,156.0
+Young England,1850,,29.0,,,Leith,Port Adelaide,,,,,,,,29.0
+Bernica,1850,,30.0,,,London_Plymouth,Port Adelaide,,,,,,,,30.0
+Midlothian,1850,,81.0,,,London_Plymouth,Port Adelaide,,,,,,,,81.0
+Jane Morrison,1850,,86.0,,,Gravesend_Plymouth,Port Adelaide,,,,,needlewomen in steerage,,,86.0
+James Gibb,1850,,110.0,,,Plymouth,Port Adelaide,,,,,,,,110.0
+Bengal,1850,3.0,44.0,,,London_Plymouth,Port Adelaide,0.0,0.0,0.0,,"CUNNINGHAM, Captain (//-3/7/1850) - Died at sea, from diabetes.",https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1850,6.8181818181818175,41.0
+Mary Ann,1850,,17.0,,,London_Plymouth,Port Adelaide,,,,,,,,17.0
+Lysander,1850,9.0,264.0,,,London_Plymouth,Port Adelaide,3.0,2.0,4.0,,"Death - 3 infants under 1 yr, 2  children  & 4 adults _ages & cause of deaths unknown__","1849-1865 deaths on board immigrant ships _State Records ""Deaths on board Immigrant Ships_1849-1865_as published in the South Australian Government Gazette on the 25th of January 1866",3.4090909090909087,255.0
+Abberton,1850,,93.0,,,Plymouth,Port Adelaide,,,,,,,,93.0
+Caroline Agnes,1850,,65.0,,,London,Port Adelaide,,,,,,,,65.0
+Cadet,1850,,14.0,,,Greenock,Port Adelaide,,,,,,,,14.0
+Countess of Yarborough,1850,3.0,116.0,,,London_Plymouth,Port Adelaide,0.0,3.0,0.0,,"BENNETT, Captain John - Three seemingly unattached children - Edwin BROWN, Elizabeth FARQUHAR and Elizabeth MACKAY - died on the voyage. Many justifiable passenger complaints about conditions aboard. The unnamed surgeon a most unfit person for such a charge.",,2.586206896551724,113.0
+Joseph Somes,1850,4.0,279.0,,,London_Plymouth,Port Adelaide,,,,,"19 single women were mostly domestic servants from Co Shetland, Scotland.",,1.4336917562724014,275.0
+Julindur,1850,1.0,118.0,,,London_Plymouth,Port Adelaide,,,,,No steerage passengers - I death due to measles,,0.847457627118644,117.0
+Constance,1850,6.0,230.0,,,London,Port Adelaide,0.0,0.0,4.0,1.0,Death - 4 adults _ages & cause of deaths unknown__,"https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1850
+https://www.archives.sa.gov.au/finding-information/discover-our-collection/migration-and-crew/passenger-lists-1845-1940/passenger-lists-search?queries_year_query=1850",2.608695652173913,224.0
+Woodbridge,1850,,16.0,,,London_Plymouth,Port Adelaide,,,,,,,,16.0
+Brothers,1850,,91.0,,,London_Plymouth,Port Adelaide,,,,,,,,91.0
+Jenny Lind,1850,1.0,105.0,,,London_Plymouth,Port Adelaide,,,,,,,0.9523809523809524,104.0
+British Sovereign,1850,,60.0,,,London_Plymouth,Port Adelaide,,,,,,,,60.0
+British Empire,1850,0.0,243.0,,,London_Plymouth,Port Adelaide,0.0,0.0,0.0,0.0,No births or deaths at sea,"https://mail.theshipslist.com/ships/australia/britishempire1850.shtml
+https://www.archives.sa.gov.au/finding-information/discover-our-collection/migration-and-crew/passenger-lists-1845-1940/passenger-lists-search?queries_year_query=1850",0.0,243.0
+Brightman,1850,,120.0,,,London_Plymouth,Port Adelaide,,,,,,https://www.samemory.sa.gov.au/site/page.cfm?c=7766&mode=singleImage       https://trove.nla.gov.au/newspaper/article/38435370,,120.0
+Northumberland,1850,,124.0,,,London_Plymouth,Port Adelaide,,,,,57 needlewomen ,,,124.0
+Lord Stanley,1850,,62.0,35.0,27.0,Gravesend,Port Adelaide,,,,,,,,62.0
+William Stevenson,1850,,118.0,,,London_Plymouth,Port Adelaide,,,,,,,,118.0
+Lucy,1850,1.0,116.0,,,Liverpool,Port Adelaide,,,,,,,0.8620689655172413,115.0
+Coromandel,1850,1.0,231.0,,,London_Plymouth,Port Adelaide,,,,4.0,,https://trove.nla.gov.au/newspaper/article/38435370#   ,0.4329004329004329,230.0
+Boyne,1850,,135.0,,,London_Plymouth,Port Adelaide,,,,,,,,135.0
+Lady MacNaghten,1850,,31.0,,,Plymouth,Port Adelaide,,,,,,,,31.0
+Trafalgar,1850,17.0,298.0,,,London_Plymouth,Port Adelaide,3.0,14.0,0.0,1.0,"Death - 3 infants under 1 yr, & 14  children _ages  unknown__ died from fever during the voyage. The ship lay at Schnapper Point until 5/4/1850, with the emigrants housed in tents on Torrens Island, while the ship was fumigated. According to ""The Adelaide Times,"" Monday April 1 1850 No. 109, Vol II Page 2 Column e: ""The following deaths took place on board the Trafalgar: Stephen Thomas, exhaustion consequent on sea sickness; Emma Leason, dysentery; George Green, ditto; Owen Zurau, eating part of a blister which had been applied to the nape of his neck; Mary Sheridan, hooping cough; Leason (infant), inanition; Smith�s infant, premature birth; Ann Mansbridge, diarrhae; P. Corrigan, hooping cough, Elizabeth Hayman, do; Thomas Box, ditto; Eliza Gallienci ditto; Ellen Howell, ditto; Webday�s infant, inanition; Marshall, premature birth; Caroline Webday, dysentery; A. Oldroyd, typhus fever. Fourteen of the above are young children"" One can imagine a mother�s dilemma confined below decks with young children in the stagnant space, with the contagious whooping cough, dysentery and typhus on board. Inanition is starvation from lack of food and the intense heat crossing the equator could have lead to the death from diarrhea. Extracts from ""Observations of an Early Colonist During the Years 1850-1852"" edited by Eleanor Wells (Mortlock Pamphlets 994.231 P776b).","https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1850
+https://bound-for-south-australia.collections.slsa.sa.gov.au/1850Trafalgar.htm",5.704697986577181,281.0
+Sophia Moffat,1850,,16.0,13.0,3.0,London,Port Adelaide,,,,,,,,16.0
+Rajah,1850,,132.0,,,London_Plymouth,Port Adelaide,,,,,,,,132.0
+Asia,1850,1.0,125.0,,,Plymouth,Port Adelaide,,,,,,,0.8,124.0
+Fatima,1850,3.0,235.0,,,London_Plymouth,Port Adelaide,0.0,3.0,0.0,4.0,,,1.276595744680851,232.0
+Providence,1850,,10.0,,,London,Port Adelaide,,,,,"3 women from the London Union. HAYNES, Ellen (//c1830-//) Accused of theft aboard the ship. m 14/2/1853 St Mary Kooringa,
+ Amos Bottom. JACKSON, Betsy (//-//) Accused of theft aboard the ship. SHETLEY/SHELLY, Ann (//-//) Accused of theft aboard the ship.",https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1850,,10.0
+Douglas,1850,21.0,125.0,,,London,Port Adelaide,,,,,"The ""death ship"" Adelaide Obs newspaper 19.01.1850 page 3.
+""The Douglas"" South Aus Register, 12.01.1850_page 2_""neglect by the surgeon"" The captain of the Douglas is a maudlin drunkard. The ship arrived with passengers suffering from cholera and typhus. 20 deaths during the voyage. ‘The death ship’ Observer 29/1/1850. The officers selected ‘fancy girls’ from the fair passengers. 40 original passengers continued to Melbourne 14/2/1850.",,16.8,104.0
+Ashburton,1850,,112.0,,,Liverpool,Port Adelaide,,,,,,,,112.0
+Sultana,1850,2.0,266.0,,,London_Plymouth,Port Adelaide,0.0,0.0,2.0,5.0,Death -  2 adulst _ages & causes of death unknown__,,0.7518796992481203,264.0
+Richardson,1850,,14.0,,,Swansea,Port Adelaide,,,,,,,,14.0
+Arabian,1850,2.0,103.0,,,Plymouth,Port Adelaide,,,,,,,1.9417475728155338,101.0
+Royal Shepherdess,1850,,20.0,15.0,5.0,Glasgow,Port Adelaide,,,,,,,,20.0
+Strathern,1850,1.0,155.0,,,London & Tor Bay,Port Adelaide,,,,,"The barque STRATHEDEN, Captain Turner, which arrived in these waters on Friday last, was, it seems, ""cursed with another ""type of the class"" known as medical drunkards, who seem to flock to these shores as if to a congenial clime. The individual who has earned for himself a niche in our editorial portrait gallery of mad doctors, flaring-up skippers and debauchee officers, rejoices in the name of Benyon, and appears to have distinguished himself by unusual depravity on ship-board.
+
+The medical chest, with its phials and fittings, were it is true, at the service of the sick, but the unsteady hand and intoxicated brain of the wretched sot who should have administered the physic and medicaments, were unfit to compound the one, or apply the other; and had it not been for the fortunate presence of a passenger doctor, there is no knowing what fatal consequences might have resulted. Under the influence of some singular hallucination, Dr Benyon appears to have supposed that the medical comforts were put on board for his own use. At all events he prescribed them for himself and most scrupulously (or rather unscrupulously) followed the prescription.
+
+For gross obscenity in the cabin whilst under the influence of strong drink, the unworthy doctor of the STRATHEDEN was banished from the cabin by the commander [captain] and he even so far forgot himself as to challenge the chief officer to a pugilistic encounter. But as these repeated instances of Dr Benyon's drunkenness, brawling and dissipation are duly recorded in the ship's log, and will probably become the subject of formal complaint by the captain, we shall not dwell further upon the circumstances, although so odious and so hazardous to the health and lives of nearly two hundred passengers.""",https://bound-for-south-australia.collections.slsa.sa.gov.au/1850Stratheden.htm     https://trove.nla.gov.au/newspaper/article/38448907,0.6451612903225806,154.0
+Symmertry,1850,,17.0,,,Leith,Port Adelaide,,,,,,,,17.0
+Salacia,1850,1.0,52.0,,,Liverpool,Port Adelaide,,,,,,,1.9230769230769231,51.0
+Samuel Boddington,1850,,44.0,,,London_Plymouth,Port Adelaide,,,,,15 cabin passengers,,,44.0
+Anna Maria,1850,,90.0,,,London,Port Adelaide,,,,,,,,90.0
+Statesman,1850,,68.0,50.0,18.0,Plymouth,Port Adelaide,,,,,,,,68.0
+Santipore,1850,,40.0,,,Gravesend & Plymouth,Port Adelaide,,,,,,,,40.0
+Duke of Portland,1850,2.0,172.0,,,London & Isle of Wight,Port Adelaide,,,,,63 needlewomen in steerage - possibly went on to Melbourne. ,https://mail.theshipslist.com/ships/australia/dukeofportland1850.shtml,1.1627906976744187,170.0
+Sea queen ,1850,1.0,214.0,,,Gravesend & Plymouth,Port Adelaide,,,,2.0,,"https://localwiki.org/adelaide-hills/Overseas_Arrivals_to_South_Australia_-_1850
+https://www.archives.sa.gov.au/finding-information/discover-our-collection/migration-and-crew/passenger-lists-1845-1940/passenger-lists-search?queries_year_query=1850",0.46728971962616817,213.0
+Stag,1850,8.0,195.0,,,London,Port Adelaide,2.0,4.0,2.0,3.0,"Death - 2 infants under 1 yr, 4  children  & 2 adults _ages & cause of deaths unknown__",,4.102564102564102,187.0
+Sibella ,1850,,125.0,,,London_Plymouth,Port Adelaide,,,,,"COLEMAN, Captain Edward R - ‘The surgeon of the ship is said to have misconducted himself to such a degree as to force the captain to place him in irons and confine him to his cabin for the last month.’",,,125.0
+Sir Edmund Head,1850,,,,,Liverpool,Port Adelaide,,,,,,,,
+Amity Hall,1850,1.0,91.0,,,London_Plymouth,Port Adelaide,,,,,,,1.098901098901099,90.0
+Stebonheath,1850,1.0,199.0,,,London_Plymouth,Port Adelaide,0.0,0.0,1.0,6.0,Death -  1 adult _age & cause of death unknown__,https://www.theshipslist.com/ships/australia/stebonheath1849.shtml,0.5025125628140703,198.0
+Princess Helena,1850,,70.0,,,London_Plymouth,Port Adelaide,,,,,,,,70.0
+Nestor,1850,,32.0,,,Glasgow,Port Adelaide,,,,,,,,32.0
+Francis Ridley,1850,0.0,91.0,,,Plymouth,Port Adelaide,0.0,0.0,0.0,,NO Deaths,https://trove.nla.gov.au/newspaper/article/38438518,0.0,91.0
+Albatross,1850,,92.0,,,Liverpool,Port Adelaide,,,,,,,,92.0
+Thomas Fielden,1850,,28.0,24.0,4.0,Liverpool,Port Adelaide,,,,,,,,28.0
+Tory ,1850,,70.0,60.0,10.0,London,Port Adelaide,,,,,"31 Females- needle women - ""femal emigration fund""",GRG 35/48/1 Official assisted passage passenger lists  STATE RECORDS,,70.0
+Agincourt,1850,2.0,265.0,,,Gravesend & Plymouth,Port Adelaide,,,,5.0,,https://www.archives.sa.gov.au/finding-information/discover-our-collection/migration-and-crew/passenger-lists-1845-1940/passenger-lists-search?queries_year_query=1850,0.7547169811320755,263.0
+Posthumous,1850,,65.0,,,London,Port Adelaide,,,,,,https://trove.nla.gov.au/newspaper/article/159532793?searchTerm=The%20posthumous,,65.0
+Panama,1850,,48.0,,,London_Plymouth,Port Adelaide,,,,,,,,48.0
+Pakenham,1850,,54.0,,,Liverpool,Port Adelaide,,,,,,,,54.0
+Asndromache,1850,,87.0,,,London,Port Adelaide,,,,,,,,87.0
+Delta,1850,,113.0,,,Plymouth,Port Adelaide,,,,,,,,113.0
+Petrel,1851,,107.0,,,Liverpool,Port Adelaide,,,,,,,,107.0
+Montgomery,1851,,14.0,,,Glasgow,Port Adelaide,,,,,,,,14.0
+Sanmuel Boddington,1851,,91.0,,,London_Plymouth,Port Adelaide,,,,,,,,91.0
+Woodstock,1851,,100.0,,,Liverpool,Port Adelaide,,,,,,,,100.0
+Prince Regent,1851,1.0,242.0,,,London,Port Adelaide,,,,3.0,,,0.4132231404958678,241.0
+Satellite,1851,,16.0,12.0,4.0,Liverpool,Port Adelaide,,,,,,,,16.0
+Three Bells,1851,,62.0,,,Glasgow,Port Adelaide,,,,,,,,62.0
+Osceola,1851,13.0,288.0,,,London_Plymouth,Port Adelaide,0.0,5.0,3.0,4.0,Death -  5  children  &32 adults _ages & cause of deaths unknown__,https://mail.theshipslist.com/ships/australia/osceola1851.shtml,4.513888888888888,275.0
+Anglia,1851,,66.0,,,London_Plymouth,Port Adelaide,,,,,,,,66.0
+Anna ,1851,,61.0,,,Liverpool,Port Adelaide,,,,,,,,61.0
+Candahar,1851,,116.0,,,London_Plymouth,Port Adelaide,,,,,,,,116.0
+Aztec,1851,,18.0,15.0,3.0,London,Port Adelaide,,,,,,,,18.0
+Omega,1851,9.0,335.0,,,Plymouth,Port Adelaide,2.0,2.0,5.0,4.0," Death - 2 infants under 1 yr, 2  children  &5  adults _ages unknown__Deaths = fever.","1849-1865 deaths on board immigrant ships _State Records ""Deaths on board Immigrant Ships_1849-1865_as published in the South Australian Government Gazette on the 25th of January 1866",2.6865671641791042,326.0
+Carleton,1851,1.0,40.0,,,Liverpool,Port Adelaide,,,,,,,2.5,39.0
+Navarino,1851,2.0,220.0,,,Plymouth,Port Adelaide,1.0,0.0,1.0,0.0,"Death - 1 infant under 1 yr, & 1 adult _ages & cause of deaths unknown__",,0.9090909090909091,218.0
+Sea Gull,1851,,10.0,4.0,6.0,Leith,Port Adelaide,,,,,,,,10.0
+Blundell,1851,,322.0,,,London_Plymouth,Port Adelaide,,,,,"Emigrants from the Family Colonisation Loan Society. Poem written about the voyage published by George Dehane of King William St 
+Observer 22/1/1927 p229a-",,,322.0
+Maid of Auckland,1851,1.0,19.0,,,London,Port Adelaide,1.0,0.0,0.0,,"Death - 1 infant under 1 yr,  cause of death unknown__","https://bound-for-south-australia.collections.slsa.sa.gov.au/1+K525851Marion.htm
+https://trove.nla.gov.au/newspaper/article/12929775",5.263157894736842,18.0
+Wellington,1851,,75.0,,,London_Portsmouth,Port Adelaide,,,,,,,,75.0
+Wanderer,1851,3.0,200.0,,,London_Plymouth,Port Adelaide,1.0,0.0,2.0,,"Death - 1 infants under 1 yr, & 2  adults _age & cause of deaths unknown__","1849-1865 deaths on board immigrant ships _State Records ""Deaths on board Immigrant Ships_1849-1865_as published in the South Australian Government Gazette on the 25th of January 1866",1.5,197.0
+Lysander,1851,7.0,236.0,,,London,Port Adelaide,1.0,2.0,2.0,,"Death - 1 infant under 1 yr, 2  children  & 2 adults _ages & cause of deaths unknown__except CARR, John Surgeon-Superintendent (//-17/10/1851) Died at sea, of consumption. 
+",,2.9661016949152543,229.0
+Asia,1851,,130.0,,,Southampton,Port Adelaide,,,,,,,,130.0
+Thetis,1851,0.0,230.0,,,Plymouth,Port Adelaide,0.0,0.0,0.0,5.0,No deaths,,0.0,230.0
+Marion,1851,9.0,350.0,,,Liverpool _Plymouth,"Wrecked - Troubridge shoul
+Gulf of st Vincent, SA.",2.0,3.0,3.0,9.0,"Death - 2 infants under 1 yr, 3  children  & 3 adults _ages & cause of deaths unknown__",,2.571428571428571,341.0
+Victor,1851,,19.0,16.0,3.0,Scotland,Port Adelaide,,,,,,,,19.0
+Tory ,1851,,78.0,,,London_Plymouth,Port Adelaide,,,,,,,,78.0
+Sultana,1851,3.0,233.0,,,Plymouth,Port Adelaide,1.0,1.0,0.0,,"Death - 1 infants under 1 yr, & 1  child _age & cause of deaths unknown__",,1.2875536480686696,230.0
+Ascendant,1851,12.0,275.0,,,London_Plymouth,Port Adelaide,3.0,4.0,4.0,4.0,"Death - 3 infants under 1 yr, 4  children  & 4 adults _ages & cause of deaths unknown__","1849-1865 deaths on board immigrant ships _State Records ""Deaths on board Immigrant Ships_1849-1865_as published in the South Australian Government Gazette on the 25th of January 1866",4.363636363636364,263.0
+Prestonjee Bomanjee,1851,,138.0,,,London_Plymouth,Port Adelaide,,,,,,,,138.0
+Releigh,1851,,28.0,,,Plymouth,Port Adelaide,,,,,,,,28.0
+Lady MacNaghten,1851,,141.0,,,London_Plymouth,Port Adelaide,,,,,,,,141.0
+Reliance,1851,19.0,314.0,,,Liverpool,Port Adelaide,0.0,9.0,10.0,5.0,Deaths = 9 children  under 5 yrs - 10 Adults  incl. 1 suicide. - ages unknown,"1849-1865 deaths on board immigrant ships _State Records ""Deaths on board Immigrant Ships_1849-1865_as published in the South Australian Government Gazette on the 25th of January 1866",6.050955414012739,295.0
+Lady Flora,1851,,176.0,,,London,Port Adelaide,,,,,,,,176.0
+Success,1851,,61.0,,,London_Plymouth,Port Adelaide,,,,,,,,61.0
+King William,1851,,80.0,,,London_Plymouth,Port Adelaide,,,,,,,,80.0
+Stuart Elphinstone,1851,,133.0,,,London_Plymouth,Port Adelaide,,,,,,,,133.0
+Oregon,1851,6.0,365.0,,,Plymouth,Port Adelaide,3.0,3.0,1.0,,"Death - 3 infants under 1 yr, 3  children  & 1 adult _ages & cause of deaths unknown_Except  1 x mother & newborn ",,1.643835616438356,359.0
+Constitution,1851,,65.0,,,Liverpool,Port Adelaide,,,,,,,,65.0
+Catherine ,1851,5.0,228.0,,,Plymouth,Port Adelaide,2.0,1.0,2.0,5.0,"Death - 2 infants under 1 yr, 1  child  & 2 adults _ages & cause of deaths unknown__",,2.1929824561403506,223.0
+Hibernia,1851,,102.0,,,Liverpool,Port Adelaide,,,,,,,,102.0
+City of Manchester,1851,2.0,260.0,,,London_Plymouth,Port Adelaide,,,,3.0,,,0.7692307692307693,258.0
+Caroline,1851,,64.0,,,Liverpool,Port Adelaide,,,,,,,,64.0
+Harpley,1851,1.0,132.0,,,London_Plymouth,Port Adelaide,0.0,0.0,1.0,,"Death - 1 infans under 1 yr,  cause of deaths unknown__The passengers published a magazine (The Harpley Gazette) in Adelaide after they landed. ADAMS, John (//-24/12/1850) A man of unsound mind, working his passage out in the ship, jumped overboard, and drowned.",,0.7575757575757576,131.0
+Hydaspes,1851,11.0,213.0,,,London_Plymouth,Port Adelaide,4.0,7.0,0.0,,"Death - 4 infants under 1 yr, 7  children  _ages & cause of deaths unknown__",,5.164319248826291,202.0
+Duke of Wellington,1851,,105.0,,,London,Port Adelaide,,,,,,,,105.0
+Condor,1851,2.0,93.0,,,Liverpool,Port Adelaide,,,,,,,2.1505376344086025,91.0
+Grasmere,1852,,141.0,,,Liverpool,Port Adelaide,,,,,,https://adb.anu.edu.au/biography/gunson-john-michael-3679    - info re ship's surgeon  John Micael Gunson whio became a doctor in adelaide,,141.0
+Standard,1852,8.0,287.0,,,London_Plymouth,Port Adelaide,3.0,4.0,1.0,,"Deaths=3 infants under 1 yr, 3  children under 4 yrs & 1 xchild age  8yrs.   & 1 adult _ages & cause of deaths unknown__",,2.7874564459930316,279.0
+Medina,1852,13.0,410.0,,,London,Port Adelaide,2.0,11.0,0.0,,"Death - 2 infants under 1 yr, 11  children  under 4 yrs majority died from diarrhoea_","https://mail.theshipslist.com/ships/australia/china1852.shtml
+https://www.archives.sa.gov.au/finding-information/discover-our-collection/migration-and-crew/passenger-lists-1845-1940/passenger-lists-search?queries_year_query=1852",3.1707317073170733,397.0
+Adelaide ,1852,0.0,169.0,140.0,29.0,London & Plymouth,Port Adelaide,0.0,0.0,0.0,2.0,No deaths,,0.0,169.0
+Sophia Moffat,1852,,21.0,,,London,Port Adelaide,,,,,,,,21.0
+Bentinch/ Bentick,1852,,14.0,10.0,4.0,London,Port Adelaide,,,,,,,,14.0
+Sibella,1852,3.0,257.0,,,Plymouth,Port Adelaide,0.0,3.0,0.0,,Death -  3  children  _ages & cause of deaths unknown__,,1.1673151750972763,254.0
+Ulrica,1852,,65.0,,,Glasgow,Port Adelaide,,,,,,,,65.0
+Marshall Bennett,1852,1.0,181.0,,,London/Plymouth,Port Adelaide,,,,,,,0.5524861878453038,180.0
+Duke of Cornwall,1852,6.0,173.0,,,Plymouth,Port Adelaide,,,,,"MYHILL, Captain John Richardson - Court case re ship’s drinking water Observer 12/6/1852 p191 a.",,3.4682080924855487,167.0
+Gloucester,1852,23.0,265.0,,,Plymouth,Port Adelaide,7.0,14.0,2.0,,"Death - 7 infants under 1 yr, 14  children  & 2 adults _ages & cause of deaths unknown__Deaths = 13 children under 2 years, 1 x 16 yrs (23 deaths = 14 measles, 3 scarlatina, 1 lung inflammation, 5 other causes Observer 14/8/1852 p264 a. 28/8/1852 p284b claims 265 passengers were aboard. 800 tons, new ship, original berths and cabins, 7’ height between deck Observer 25/9/1852 p312d.)","https://mail.theshipslist.com/ships/australia/gloucester1852.shtml
+Observer 14/8/1852 p264 a. 28/8/1852 p284b",8.679245283018867,242.0
+Steadfast,1852,10.0,253.0,,,London,Port Adelaide,3.0,5.0,2.0,10.0,"Death -3 infants under 1 yr, 5  children  under 6 yrs  & 2 adults _ages & cause of deaths unknown__","https://www.archives.sa.gov.au/finding-information/discover-our-collection/migration-and-crew/passenger-lists-1845-1940/passenger-lists-search?queries_year_query=1852
+1849-1865 deaths on board immigrant ships _State Records ""Deaths on board Immigrant Ships_1849-1865_as published in the South Australian Government Gazette on the 25th of January 1866",3.9525691699604746,243.0
+Marchioness of Douro,1852,,23.0,23.0,0.0,Leith,Port Adelaide,,,,,,,,23.0
+Cleopatra,1852,,24.0,,,London,Port Adelaide,,,,,"The Cleopatra is the finest steam ship which has yet appeared in our waters, being of 1800 tons burthen and 350 HP. She is ship-rigged 
+and draws only 12’ of water’ Observer 11/12/1852 p400e. Inquest for drownings Observer 18/12/1852 p406c.",,,24.0
+Dreadnought,1852,,15.0,11.0,4.0,London_Plymouth,Port Adelaide,,,,,,,,15.0
+Sultana,1852,4.0,240.0,,,Plymouth,Port Adelaide,4.0,0.0,0.0,,"Death - 4 infants under 1 yr,  cause of deaths unknown__",,1.6666666666666667,236.0
+Chatham,1852,5.0,225.0,,,Deptford_Plymouth,Port Adelaide,,,,,,https://mail.theshipslist.com/ships/australia/chatham1852.shtml,2.2222222222222223,220.0
+Amazon 20.02,1852,19.0,295.0,,,Plymouth,Port Adelaide,3.0,15.0,1.0,," Death - 3 infants under 1 yr, 15 children  & 1 adult _ages & cause of deaths unknown__Deaths= - Whooping Cough & Measles",https://mail.theshipslist.com/ships/australia/amazon1852.shtml,6.440677966101695,276.0
+Surge,1852,7.0,70.0,,,London_Plymouth,Port Adelaide,1.0,6.0,0.0,,"Deaths= 1 infant under 1 yr, 6  children under 8 yrs_cause of deaths unknown__ ",,10.0,63.0
+Sydney,1852,,190.0,,,Plymouth,Port Adelaide,,,,,,,,190.0
+Hashemy,1852,,29.0,,,Plymouth,Port Adelaide,,,,,,,,29.0
+Henry Tanner,1852,,21.0,,,,,,,,,,,,21.0
+Albemarle,1852,,38.0,,,London,Port Adelaide,,,,,,,,38.0
+Caucasian,1852,,237.0,,,Plymouth,Port Adelaide,,,,,,,,237.0
+Colooney,1852,,97.0,,,Leith,Port Adelaide,,,,,,,,97.0
+Anna,1852,,271.0,,,Liverpool,Port Adelaide,,,,,,,,271.0
+Anglia,1852,6.0,244.0,,,Plymouth,Port Adelaide,1.0,3.0,2.0,,"Death - 1 infants under 1 yr, 3  children  & 2 adults _ages & cause of deaths unknown__",,2.459016393442623,238.0
+Washington,1852,,87.0,,,Greenock,Stranded- Troubridge Shoul finally Port Adelaide,,,,,,,,87.0
+Rienz,1852,,48.0,,,Plymouth,Port Adelaide,,,,,,,,48.0
+Prince Regent,1852,0.0,236.0,,,London/Plymouth,Port Adelaide,0.0,0.0,0.0,2.0,"No deaths_ ""no disease""",https://trove.nla.gov.au/newspaper/article/38462092,0.0,236.0
+Barbara Gordon,1852,1.0,20.0,,,London_Plymouth,,0.0,0.0,1.0,,Death = one  adult _age & cause of deaths unknown__ Captain W Lightfoot died at sea on 24/5/1852.,,5.0,19.0
+Waterlilly,1852,1.0,130.0,,,Liverpool,Port Adelaide,,,,,,,0.7692307692307693,129.0
+Jane,1852,,17.0,,,London,Port Adelaide,,,,,,,,17.0
+Royal Shepherdess,1852,,20.0,17.0,3.0,Deal,Port Adelaide,,,,,,,,20.0
+China,1852,9.0,222.0,,,London_Plymouth,Port Adelaide,1.0,7.0,0.0,4.0,"Death - 1 infants under 1 yr, 7  children  ages & cause of deaths unknown__",,4.054054054054054,213.0
+Orpheus,1852,,82.0,,,Liverpool,Port Adelaide,,,,,,,,82.0
+Sea Park,1852,14.0,345.0,,,,Port Adelaide,8.0,6.0,0.0,9.0,"Deaths=8 infants under 1 yr,& children under 3 yrs  cause of deaths unknown_",,4.057971014492753,331.0
+Epaminondas,1852,6.0,502.0,,,Liverpool/Plymouth,Port Adelaide,0.0,5.0,1.0,,Death - 5 children  & 1 adult _ages & cause of deaths unknown__,,1.1952191235059761,496.0
+Charlotte Jane,1852,4.0,275.0,,,Plymouth,Port Adelaide,0.0,2.0,2.0,5.0,Death - 2  children  & 2 adults _ages & cause of deaths unknown__,,1.4545454545454546,271.0
+Woodbridge,1852,,42.0,,,Plymouth,Port Adelaide,,,,,,,,42.0
+Omega,1852,6.0,285.0,,,London_Plymouth,Port Adelaide,4.0,2.0,0.0,6.0,"Death - 4 infants under 1 yr, 2  children  _ages & cause of deaths unknown__",,2.1052631578947367,279.0
+Caroline Agnes,1852,1.0,126.0,,,London_Plymouth,Port Adelaide,,,,,no steerage passengers ,,0.7936507936507936,125.0
+John Oldham,1852,,24.0,,,London,Port Adelaide,,,,,,,,24.0
+Australian ,1852,,176.0,,,Plymouth,Port Adelaide,,,,,(Royal mail Steamer) Ship fearfully overcrowded and carrying many miners.,https://trove.nla.gov.au/newspaper/page/3917554,,176.0
+Phoebe Dunbar,1852,13.0,233.0,,,London_Plymouth,Port Adelaide,4.0,8.0,1.0,,"Death -4 infants under 1 yr, 8  children  & 1 adult _ages  unknown__Deaths= 2 scarlatina, 2 measles, 1 chronic liver disease, 1 water in the head, 1 general dropsy",,5.579399141630901,220.0
+Ramilles,1853,6.0,318.0,,,Southampton,Port Adelaide,6.0,0.0,0.0,12.0,Death/s = Infants under 1 yr of age only,,1.8867924528301887,312.0
+Epaminondas,1853,18.0,454.0,,,Southampton,Port Adelaide,8.0,4.0,5.0,9.0,"Deaths = 8 infants under 1 yr, 4  children  under 14 yrs, & 5 adults _ages & cause of deaths unknown__",,3.9647577092511015,436.0
+Gipsy,1853,,143.0,,,Southampton,Port Adelaide,,,,,,,,143.0
+Drie Vrienden,1853,,12.0,,,Liveropol,Port Adelaide,,,,,,,,12.0
+Neerlands Koning,1853,,17.0,,,Liveropol,Port Adelaide,,,,,,,,17.0
+Australian ,1853,,12.0,,,London,Port Adelaide,,,,,Streamer,,,12.0
+Macedon,1853,17.0,219.0,,,Plymouth,Port Adelaide,1.0,7.0,6.0,9.0,"Death -1 infants under 1 yr, 7  children under 10 yrs  & 6 adults _ages  unknown__Causes of death Fever & Diarrohoea. _____212 Gov Emigrants in Steerage",,7.76255707762557,202.0
+President Ram,1853,,31.0,,,Plymouth,Port Adelaide,,,,,,,,31.0
+Caucasian,1853,5.0,277.0,,,London_southampton,Port Adelaide,,,,,,,1.8050541516245486,272.0
+Frances Henty,1853,,29.0,,,Plymouth,Port Adelaide,,,,,,,,29.0
+Lydia,1853,1.0,32.0,,,Guernsey,Port Adelaide,0.0,1.0,0.0,,Death = child or teenager falling over board & drowning,,3.125,31.0
+Hannah Maria,1853,,68.0,,,Plymouth,Port Adelaide,,,,,,,,68.0
+Hamlet,1853,,14.0,,,London,Port Adelaide,,,,,,,,14.0
+Marshall Bennett,1853,16.0,158.0,,,Plymouth,Port Adelaide,3.0,11.0,2.0,3.0,"Death -3 infants under 1 yr, 11  children   & 2 adults _ages & cause of deaths unknown__",,10.126582278481013,142.0
+Charlotte Jane,1853,,57.0,,,Plymouth,Port Adelaide,,,,,,,,57.0
+Nederland en Orange,1853,,28.0,,,Liverpool,Port Adelaide,,,,,,,,28.0
+Shackamaxon,1853,64.0,696.0,,,,Port Adelaide,14.0,42.0,8.0,19.0,"Deaths - 14 infants under 1 yr, 42  children  & 8 adults _ages unknown__ Scarlet Fever",,9.195402298850574,632.0
+Ann Holzberg,1853,,141.0,,,Liverpool,Port Adelaide,,,,,,,,141.0
+Gomelza,1853,,43.0,,,Liverpool,Port Adelaide,,,,,,,,43.0
+Neptune,1853,19.0,319.0,,,Plymouth,Port Adelaide,6.0,10.0,2.0,4.0,"Deaths:  6 infants under 1 yr, 10 children under 11 yrs,  majority had diarrhoea & measles. 2 adult incl. one female age 24 yr died by suicide.  HENDERSON, Captain John - Fined for not giving proper provisions as required by the Emigration Act. Public meeting 19/1/1854 Sir John Barleycorn Hotel Rundle St Observer 14/1/1854 p14e.",,5.956112852664576,300.0
+Lowe van Nigenstein,1853,,27.0,,,London,Port Adelaide,,,,,,,,27.0
+Smit,1853,,63.0,,,London,Port Adelaide,,,,,,,,63.0
+Sarah Alida Maria,1853,,43.0,,,Liverpool,Port Adelaide,,,,,,,,43.0
+Sophia Moffat,1853,7.0,48.0,,,London & Falmouth,Port Adelaide,4.0,1.0,2.0,,"Deaths =  4 infants under 1 yr, child under 2 yrs, &  1 x 19 yr old died after childbirth other adult age and cause of death unknown",,14.583333333333334,41.0
+Anna Paulona,1853,,32.0,,,Liverpool,Port Adelaide,,,,,,,,32.0
+Melbourne,1853,,88.0,,,London,Port Adelaide,,,,," ""Screw Streamer'",,,88.0
+Mayflower,1853,,50.0,,,London,Port Adelaide,,,,,,,,50.0
+Standard,1853,4.0,327.0,,,Plymouth,Port Adelaide,3.0,0.0,1.0,9.0," Death - 3 infants under 1 yr,1 adult _ages & cause of deaths unknown__some cases of scurvy on board.",,1.2232415902140672,323.0
+Mary Green,1853,3.0,300.0,,,Southampton,Port Adelaide,2.0,1.0,0.0,5.0,"Death - 2 infants under 1 yr, 1 child  ages & cause of deaths unknown__",,1.0,297.0
+Rialto,1853,,18.0,,,Liverpool,Port Adelaide,,,,,,,,18.0
+Neptune,1853,18.0,327.0,,,London/Plymouth,Port Adelaide,,,,,143 days at sea!,,5.5045871559633035,309.0
+Olivia,1853,6.0,363.0,,,Plymouth,Port Adelaide,4.0,2.0,0.0,10.0,"Death - 4 infants under 1 yr, 2 children under 14 yrs.  …",,1.6528925619834711,357.0
+H.M.S. Hercules,1853,2.0,190.0,,,"Campbeltown, Scotland & 
+Cork, Ireland",Port Adelaide,1.0,0.0,1.0,,"  Highland and Island Emigration Society sponsored the emigrants. The Earl of Dunmore sponsored the emigrants from the parish of 
+Harris, Co Inverness. Lord Macdonald sponsored the emigrants from the parish of North Uist, Co Inverness.",,1.0526315789473684,188.0
+Irene,1853,,26.0,,,London,Port Adelaide,,,,,,,,26.0
+Magdalena,1853,13.0,320.0,,,Southampton,Port Adelaide,1.0,4.0,8.0,8.0,"Deaths = 1 infants under 1 yr, 4  children age range 4 -14 yrs & 8 adults _ages & cause of deaths unknown_",,4.0625,307.0
+Tancred,1853,,114.0,,,Liverpool,Port Adelaide,,,,,,,,114.0
+Adelaide,1853,0.0,12.0,12.0,0.0,Plymouth,Port Adelaide,0.0,0.0,0.0,," ""Screw Streamer'"," ""Screw Streamer'",0.0,12.0
+Victoria,1853,,10.0,10.0,0.0,London,Port Adelaide,,,,,,,,10.0
+Derwent,1853,,29.0,,,London,Port Adelaide,,,,,,,,29.0
+California ,1853,,105.0,,,Gravesend & the Downs,Port Adelaide,,,,,,,,105.0
+Wanderer,1853,,22.0,,,London,Port Adelaide,,,,,,,,22.0
+Calabar,1853,9.0,330.0,,,Southampton,Port Adelaide,2.0,6.0,1.0,0.0,"Deaths = 2 infants under 1 yr, 6  children under age 4 yrs,   & 1 adult _ages & cause of deaths unknown__, ",,2.727272727272727,321.0
+Admiral Peit Hein,1853,,34.0,,,Liverpool,Port Adelaide,,,,,,,,34.0
+Culcutta,1853,2.0,75.0,,,London,Port Adelaide,,,,,"Steerage passengers under the auspices of St Martin’s In the Fields, London Observer 5/2/1853 p46e",,2.666666666666667,73.0
+Competitor,1853,,10.0,,,London & the Downs,Port Adelaide,,,,,,,,10.0
+Leonidas,1853,1.0,121.0,,,London,Port Adelaide,,,,,No distinction between intermediate and steerage passengers. ,,0.8264462809917356,120.0
+Walvisch,1853,,102.0,,,London,Port Adelaide,,,,,,,,102.0
+Caroline,1853,,19.0,,,Berwick,Port Adelaide,,,,,Tradesmen and miners for the Strathalbyn Mining Co.,,,19.0
+Trident,1853,,18.0,,,Liverpool,Port Adelaide,,,,,,,,18.0
+William Stewart,1853,2.0,288.0,,,Southampton,Port Adelaide,1.0,1.0,0.0,5.0,"Death - 1 infant under 1 yr, 1 child  ages & cause of deaths unknown__",,0.6944444444444444,286.0
+Theresia,1853,,41.0,,,Liverpool,Port Adelaide,,,,,,,,41.0
+Agenta,1853,,18.0,17.0,1.0,London,Port Adelaide,,,,,,,,18.0
+Lady Bruce,1853,,37.0,,,London,Port Adelaide,,,,,,,,37.0
+Thames,1853,,26.0,,,London,Port Adelaide,,,,,,,,26.0
+Virginia,1853,,26.0,,,London,Port Adelaide,,,,,,,,26.0
+Cotfield,1853,,222.0,,,Bristol,Port Adelaide,,,,,,,,222.0
+Jacob Helena,1853,,28.0,,,London,Port Adelaide,,,,,,,,28.0
+Indeminity,1853,,32.0,,,London & the Lizard,Port Adelaide,,,,,,,,32.0
+Agra,1853,,61.0,,,Gravesend,Port Adelaide,,,,,,,,61.0
+Iris,1853,,21.0,,,The Downs,Port Adelaide,,,,,,,,21.0
+Victoria,1854,,10.0,,,London,Port Adelaide,,,,,,,,10.0
+El Dorado,1854,,21.0,,,Glasgow,Port Adelaide,,,,,,,,21.0
+John Bunyan,1854,29.0,340.0,200.0,140.0,Liverpool,"Port Adelaide 
+via Torrens island",6.0,23.0,0.0,4.0,"Deaths =6 infants under 1 yr, 23 children under 5 yrs. Some causes of death listed: Rubela maligna, Scarlatina, Tabes Mesemterica, Diarrhoea
+The ""John Bunyan"" arrived from Liverpool on the 22d May 1854, after a passage of 100 days ; bringing to the colony 318 souls ; 29 deaths and four births took place at sea. The great mortality in this ship was caused by measles and scarlet fever, both of which broke out within four days after the ship left Liverpool. These diseases appeared first among the single women, and went right through the ship to the forecastle amongst the sailors. When the ship arrived the disease had ceased, and the general health was very good. The surgeon-superintendent appears to have experienced some difficulty in managing the single women, a few of whom were not well-behaved. In consequence of irregularities occuring in the evening he was obliged to diminish the number of lights which are usually allowed ; this caused some dissatisfaction, but, from the circumstances, he was quite justified in the mode of punishment which he adopted. It is to be regretted that, on this occasion, the innocent were put to inconvenience on account of the ill-behaved.","The South Australian Government Gazette 1866 p. 85
+https://www.theshipslist.com/ships/australia/johnbunyan1854.shtml
+https://www.archives.sa.gov.au/finding-information/discover-our-collection/migration-and-crew/passenger-lists-1845-1940/passenger-lists-search?queries_year_query=1854",8.529411764705882,311.0
+Historia,1854,,195.0,,,Plymouth,Port Adelaide,,,,,,,,195.0
+Joseph Rowen,1854,3.0,376.0,,,Liverpool,Port Adelaide,0.0,1.0,2.0,6.0,"Deaths =1 child under 5 yrs, & 2 adults ages & cause of deaths unknown__",,0.7978723404255319,373.0
+Walvisch,1854,,12.0,12.0,0.0,London,Port Adelaide,,,,,,,,12.0
+Navarino,1854,5.0,242.0,,,London,Port Adelaide,2.0,1.0,0.0,4.0,"Deaths = 2 infants under 1 yr, 1 child age 1 year.  ",,2.066115702479339,237.0
+Wannan,1854,,13.0,,,Liverpool,Port Adelaide,,,,,,,,13.0
+Emerald Isle,1854,1.0,267.0,,,Plymouth,Port Adelaide,0.0,1.0,0.0,2.0,Deaths =  1 x 6 yr old child…,,0.37453183520599254,266.0
+Roehampton,1854,,12.0,,,London,Port Adelaide,,,,,,,,12.0
+Ruby,1854,,21.0,,,London,Port Adelaide,,,,,,,,21.0
+Irene,1854,0.0,54.0,41.0,13.0,Gravesend,Port Adelaide,0.0,0.0,0.0,,,,0.0,54.0
+Fortune,1854,1.0,244.0,,,Plymouth,Port Adelaide,0.0,0.0,1.0,4.0,Death - 1 adult _ags & cause of death unknown__,,0.4098360655737705,243.0
+Fortitude,1854,,30.0,,,London,Port Adelaide,,,,,,,,30.0
+Ostrich,1854,4.0,246.0,,,Southampton,Port Adelaide,3.0,1.0,0.0,4.0,"Deaths =   3 infants under 1 yr, _child age 1.5 years.  cause of deaths unknown_",,1.6260162601626018,242.0
+Charlotte Jane,1854,,15.0,,,Liverpool,Port Adelaide,,,,,,,,15.0
+Ormelie,1854,,22.0,,,Glasgow,Port Adelaide,,,,,,,,22.0
+Isle of Thanet,1854,2.0,233.0,,,Plymouth,Port Adelaide,0.0,2.0,0.0,2.0,"Deaths = 2 children 1 yr,  ",,0.8583690987124464,231.0
+James Fernie,1854,30.0,376.0,278.0,98.0,Liverpool,Port Adelaide,4.0,12.0,14.0,3.0,"Deaths =  4 infants under 1 yr, 12  children under 12 years,  & 14 adults___23 death from Cholera,  Charles hutchison Graham Superintendent Surgeon_ adults N= 88 males, 190 females ( 106 single) children N= 37 boys & 61 girls.
+19 days quaratine. Cholera broke out a few days after leaving England",,7.9787234042553195,346.0
+Emigrant,1854,2.0,315.0,,,"London, The Downs
+ & Southampton",Port Adelaide,0.0,2.0,0.0,2.0,"Deaths =2  children both 1 yr, ",,0.6349206349206349,313.0
+Evening Star,1854,,47.0,,,Jersey,Port Adelaide,,,,,,,,47.0
+Janette Philippe,1854,,11.0,11.0,0.0,London & the Downs,Port Adelaide,,,,,,,,11.0
+William Prowse,1854,3.0,300.0,,,Plymouth,Port Adelaide,1.0,0.0,2.0,1.0,"Death - 1 infants under 1 yr,  2 adults _ages & cause of deaths unknown__",,1.0,297.0
+Abermarle,1854,2.0,123.0,,,Portsmouth,Port Adelaide,,,,,,,1.6260162601626018,121.0
+William Hammond,1854,3.0,267.0,,,Southampton,Port Adelaide,2.0,1.0,0.0,2.0,"Deaths = 2 infants under 1 yr, 1  child under 2 yrs _cause of deaths unknown_",,1.1235955056179776,264.0
+Nugget,1854,14.0,402.0,,,Liverpool,Port Adelaide,5.0,9.0,0.0,10.0,"Deaths =  5 infants under 1 yr incl. 2 x Still births, 9  children under 11 yrs  _ cause of deaths unknown only 91 days at sea. Clipper ship",,3.482587064676617,388.0
+Royal Charlie,1854,2.0,214.0,,,Southampton,Port Adelaide,0.0,0.0,2.0,13.0,"Deaths = 2 adult females - causes of death 1 x consumption & 1 x haemorrhage after miscarrage.  
+The ""Royal Charlie"" arrived from Southampton on the 24th of May, after a passage of 123 [or 128] days, bringing to the colony 223 souls ; 13 births and two deaths occurred at sea. There was much dissatisfaction and discontent in this ship, which seemed to have been caused by a want of judicious management of the people.
+ The medical comforts were given away without proper discretion during the early part of the voyage, and were all expended long before the vessel arrived in this port. This, with other evidences of injudicious management were apparent.",The South Australian Government Gazette 1866 p. 85,0.9345794392523363,212.0
+Anne Maclean,1854,,17.0,,,Glasgow,Port Adelaide,,,,,,,,17.0
+Confiance,1854,2.0,331.0,,,Plymouth,Port Adelaide,1.0,1.0,0.0,5.0,"Deaths = 1 infants under 1 yr, 1  child 1 yr of age_ cause of deaths unknown__",,0.6042296072507553,329.0
+Hyderabad,1854,12.0,306.0,,,Southampton,Port Adelaide,6.0,5.0,1.0,4.0,"Deaths =  6 infants under 1 yr, 5 children under 2 yrs, &  1 adult - died  due to childbirth -  __97 or 99 days at sea
+From Southampton, arrived on the 14th of March after a passage of 99 days with 307 immigrants. Four births and twelve deaths occurred at sea and before disembarkation. Much discontent prevailed on board amongst the immigrants, which made it necessary for the Immigration Board to investigate the nature and causes of the complaints. It appeared that there had been, during the voyage a lamentable want of cooperation between the master and surgeon of the ship. The immigrants generally complained of an insufficient supply of lamps. It appeared on inquiry that on leaving England and for some time after, eighteen lamps were lighted at dark in the part of the ship appropriated to the immigrants, but it was shown that the Surgeon-Superintendent had not taken the precaution of having any of these extinguished at bedtime; and when the master of the ship went below on two occasions to see that all was safe, he found all the lamps lighted after midnight. On the first occasion he spoke to the Surgeon, who did not rectify the evil ; and, considering that such a state of things, if permitted to continue, would seriously endanger the safety of all on board, he took upon himself to limit the number of lamps lighted at sunset to five amongst the immigrants, one in the hospital and one in the matrons room.
+On this occasion the Board could not blame the master for interfering when the Surgeon so far neglected his duty. —
+“ Had the surgeon superintendent been un-blameable in his own conduct, we should have viewed with less distrust his charges against the Captain ; but it is most clearly shown, that the surgeon superintendent was discovered after the usual hours of retiring to rest, sitting in the pantry with the steward, drinking wine which had been brought from the hospital stores. It is also clearly proved that the Surgeon allowed the boatswain to frequent the young womens' apartments in the evening, under the pretence that he was in love with and about to marry one of the single girls. Such behaviour in a Surgeon-Superintendent cannot be too strongly condemned ; it tends to undermine all regularity and order, and to introduce insubordination and confusion.”   The South Australian Government Gazette 1866 p. 84",,3.9215686274509802,294.0
+Kangaroo,1854,,29.0,,,Gravesend,Port Adelaide,,,,,,,,29.0
+Hindostan,1854,,30.0,,,London,Port Adelaide,,,,,,,,30.0
+Sir Thomas Gresham,1854,4.0,230.0,,,Plymouth,Port Adelaide,0.0,2.0,0.0,9.0,Deaths =1  child age 1 year & 1 child age 12 yrs. one infant was still born.,,1.7391304347826086,226.0
+Daylesford,1854,,27.0,,,Plymouth,Port Adelaide,,,,,,,,27.0
+Lady Macdonald,1854,7.0,294.0,,,Plymouth,Port Adelaide,0.0,3.0,4.0,5.0,"Deaths =3  children under 8 yrs, 4 adults.ages & cause of deaths unknown",,2.380952380952381,287.0
+Time and Truth,1854,6.0,241.0,,,Plymouth,Port Adelaide,4.0,1.0,1.0,4.0,"Deaths =   4 infants under 1 yr, 1 child age 3 years  & 1 adult _age& cause of deaths unknown__
+The ""Time and Truth"" arrived from Plymouth on the 8th of May, after a passage of 118 days; bringing to the colony 239 souls; six deaths and four births took place during the voyage. This vessel arrived in very excellent order. The fresh potatoes which were put on board at Plymouth were found after 12 days to be unsound, so that there was not a sufficient supply of preserved potatoes to last the voyage ; in other respects, the provisions and water were abundant and good. The surgeon-superintendent suggests that an addition should be made to the quantity of the Sp. AEth. Nitric. put on board under the charter-party; I have had no complaint made on this head by other any surgeon. [sic]","BPP 1854-55 (42) Papers relative to Emigration to Australian Colonies part I. New South Wales and Australia; Part II S. and W. Australia, Van Diemen's Land",2.4896265560165975,235.0
+Marion,1854,15.0,384.0,,,Liverpool,Port Adelaide,8.0,7.0,0.0,7.0,"Death =8 infants under 1 yr.  7 children under 3 years. Typhoid fever .
+Arrived from Liverpool on the 10th December with 384 immigrants, having been 106 days at sea ; fifteen deaths and eight births occurred during the voyage. All the deaths were caused by a low kind of continued fever, which prevailed during the whole voyage, and attacked every one on board. It is difficult to account for the prevalence of fever, as the ship was very clean, and the surgeon-superintendent seems to have performed his duty with zeal and efficiency. All the deaths which occurred, were of infants or children not above twelve months old. The emigrants by this ship were of a class well-suited for the Colony, and seem to have been carefully selected.",,3.90625,369.0
+Champion,1854,,32.0,,,Plymouth,Port Adelaide,,,,,,,,32.0
+Sir Edward Parry,1854,4.0,,,,Plymouth,Port Adelaide,1.0,2.0,1.0,5.0,"Deaths = 2 infants under 1 yr, 1 child under 2 yr & 1 adult _ages & cause of deaths unknown_",,,
+Mariner,1854,,29.0,,,London,Port Adelaide,,,,,,,,29.0
+Steadfast,1854,,28.0,,,London,Port Adelaide,,,,,,,,28.0
+Star Queen,1854,10.0,376.0,,,Southampton,Port Adelaide,5.0,3.0,1.0,8.0,"Deaths=1 x  infant with Syphilis died 4 hrs after birth. 4 other infants under 1` yr.  3 children under 9 years & 1 adult age unknown -Dysentery, 1 case of cholera ",,2.6595744680851063,366.0
+Lady Nugent,1854,,34.0,,,Falmouth,Port Adelaide,,,,,,,,34.0
+Bristow,1854,,10.0,,,Liverpool,Port Adelaide,,,,,,,,10.0
+Sultana,1854,5.0,140.0,,,Plymouth,Port Adelaide,1.0,2.0,2.0,3.0,"Deaths =1 infants under 1 yr, 2  children under 7 yrs  & 2 adults _ages & cause of deaths unknown_92 days at sea",,3.571428571428571,135.0
+Thetis,1854,7.0,226.0,,,Plymouth,Port Adelaide,3.0,3.0,1.0,6.0,"Deaths = 3 infants under 1 yr, 3  children under 4 yrs  & 1 adult _ages & cause of deaths unknown",,3.0973451327433628,219.0
+Taymouth Castle,1854,2.0,286.0,,,Plymouth,"Poprt Adelaide 
+via Torrens island",2.0,1.0,0.0,11.0,"Deaths = 2 infants under 1 yr, 1  child_age & cause of deaths unknown__ 6 - 11 Births..conflicting reports___August- sent to Torrens Island (near Port Adelaide) to be quarantined - passengers with Small pox ","https://www.samhs.org.au/Virtual%20Museum/hospital-andother-orgs/Torrens_Island_Quarantine/Torrens_Island_Quarantine.html 
+https://www.theshipslist.com/ships/australia/taymouthcastle1854.shtml
+https://www.archives.sa.gov.au/finding-information/discover-our-collection/migration-and-crew/passenger-lists-1845-1940/passenger-lists-search?queries_year_query=1854",0.6993006993006993,284.0
+Lydford,1854,,19.0,6.0,13.0,London,Port Adelaide,,,1.0,,Death = 1 adult = Captain Gates died at sea off the African coast soon after leaving the Cape of Good Hope.,,,19.0
+Dirigo,1854,13.0,495.0,,,Liverpool,Port Adelaide,6.0,6.0,1.0,12.0,"Deaths = 6 infants under 1 yr, 6  children under 11 yrs  & 1 adult _ages & cause of deaths unknownal_cholea& Fever listed.
+Originally saled around 23rd June But Cholera outbreak between Liverpool and Ireland meant the ship docked at Cork and later retrurned to Liverpool. During the first trip 49 people died from cholorea - reported in the Observer 24/10/1854 p461b.",https://mail.theshipslist.com/ships/australia/dirigocork1854.shtml,2.6262626262626263,482.0
+Lord of the Isles,1854,12.0,316.0,,,Southampton,Port Adelaide,4.0,4.0,4.0,2.0,"Deaths = 3 4nfants under 1 yr, 4  children under 9 yrs  & 4 adults _ages unknown. Cholera, Tyfoid fever . ",,3.79746835443038,304.0
+Lord Raglan,1854,4.0,372.0,,,Plymouth,Port Adelaide,2.0,1.0,1.0,5.0,"Deaths =2 infants under 1 yr, 1  child age 1 yr  & 1 adult _ages & cause of deaths unknown__
+Arrived from Plymouth on the 23rd October, having been 99 days at sea. Six births and four deaths occurred at sea, and 372 souls were landed in the Colony.
+It was very evident at the first visit to the ship, that the surgeon-superintendent was totally unfitted for such a charge, and could not maintain regularity or discipline. No complaints, however, were made either against the surgeon or the officers of the ship, with the exception of a charge made by the surgeon-superintendent against the chief officer for familiarity with one of the single girls. However, on a perusal of the surgeon’s journal, charges of such a serious character were there entered against the master and officers of the ship, that it was considered necessary that these circumstances should be carefully investigated. The Immigration Board sat three successive days investigating the matter, when it appeared to them, with the exception of a complaint against the first officer, that all the other grave charges in the surgeon’s journal were utterly devoid of fact and without foundation. The charge against the first mate, otherwise a very efficient officer, was considered to be proved in so far as he had paid marked attention to one of the single girls. It was clearly shown that these attentions were with the entire concurrence of the father and mother of the young woman, were honorable in their motive, and devoid of the slightest approach to indecorum. The board were of opinion that such intimacies of the officers with the single women should not be allowed to exist on board ship ; as they tended to show a bad example to the crew, and were otherwise calculated to undermine the discipline, and interfere with the authority of the surgeon-superintendent.
+The Board gave it as their opinion, that had it not been for the energy of the master and officers of the Lord Raglan, that the surgeon could not have maintained anything like discipline on board ; that he was quite unfit to manage an emigrant ship, and that he ought not to be again entrusted with such a charge. His Excellency the Lieutenant-Governor was pleased so far to approve the Report of the Immigration Board, (a copy of which His Excellency directed to be sent to the Commissioners), and at the same time to represent to them the advisableness of making known to all officers of emigrant ships, that a penalty will be attached to them if they pay particular attention to any female emigrant on board, even though such attentions may be perfectly innocent.",,1.0752688172043012,368.0
+Thomas Fielding,1854,,22.0,,,London,Port Adelaide,,,,,,,,22.0
+Grenada,1854,,13.0,,,Liverpool,Port Adelaide,,,,,,,,13.0
+Pestanjee Bomanjee,1854,10.0,308.0,,,Southampton,Port Adelaide,2.0,4.0,4.0,5.0,"Deaths =2 infants under 1 yr, 4  children under 5 yrs  & 4 adults _ages & cause of deaths unknown 
+The Pestongee Bomanjee arrived from Southampton on the 7th October, having made the voyage in 112 days ; 303 souls were landed. Five births and ten deaths were the casualties during the voyage. Fever to a considerable extent prevailed during the voyage. It seems to me that cleanliness had not been sufficiently enforced ; and I have little doubt that the prevalence, if not the origin of the sickness, was caused by that neglect. In all other respects the surgeon-superintendent used every means to promote the comfort and health of the people, so that there is little doubt that his want of experience in the management of emigrants was the cause of the laxity of discipline at first; which, during the voyage, he found it difficult if not impossible to rectify. The stoppage of the certificate for return passage money to England, was considered as a sufficient warning to him to act with more decision if he were again entrusted with the charge of an emigrant ship ; as his Excellency the Lieutenant-Governor was pleased to approve this recommendation, and to order that the certificate should be withheld. H Duncan M.D., Immigration Agent","South Australian Government Gazette, February 1st 1855",3.2467532467532463,298.0
+Standard,1854,14.0,322.0,,,Plymouth,Port Adelaide,6.0,5.0,3.0,7.0,"Deaths = 6 infants under 1 yr, 5  children under 4 yrs  & 3 adult _ages & cause of deaths unknown",,4.3478260869565215,308.0
+Lady Jocelyn,1854,,26.0,,,London & the Downs,Port Adelaide,,,,,,,,26.0
+Graaf DirkIII,1854,,22.0,,,London,Port Adelaide,,,,,,,,22.0
+Trafalgar,1854,4.0,205.0,,,Plymouth,Port Adelaide,4.0,0.0,0.0,7.0,"Death - 4 infants under 1 yr,  cause of deaths unknown__",,1.951219512195122,201.0
+Vesta,1854,,26.0,,,London,Port Adelaide,,,,,,,,26.0
+Matador,1854,,13.0,,,London,Port Adelaide,,,,,,,,13.0
+Stadt Utrecht,1854,,17.0,,,Liverpool,Port Adelaide,,,,,,,,17.0
+Smit,1854,,36.0,,,London,Port Adelaide,,,,,,,,36.0
+Maude,1854,,28.0,,,London,Port Adelaide,,,,,,,,28.0
+David Malcolm,1854,4.0,226.0,,,Plymouth,Port Adelaide,2.0,1.0,1.0,2.0,"Death - 2 infants under 1 yr, 1 child  & 1 adult _ages & cause of deaths unknown__",,1.7699115044247788,222.0
+Adolph Von Nassau,1855,,11.0,,,London & Fowey,Port Adelaide,,,,,,,,11.0
+Switzerland,1855,2.0,286.0,,,Liverpool,Port Adelaide,1.0,1.0,0.0,1.0,Deaths =  child age 1 yr. 1 birth,,0.6993006993006993,284.0
+Constance,1855,,37.0,,,Gravesend,Port Adelaide,,,,,,,,37.0
+Agincourt,1855,1.0,240.0,,,Plymouth,Port Adelaide,1.0,0.0,0.0,0.0,Death/s = Infants under 1 yr of age only,,0.4166666666666667,239.0
+Telegraph,1855,4.0,427.0,,,Southampton & Plymouth,Port Adelaide,2.0,2.0,1.0,11.0,"Deaths = 2 infants under 1 yr, 2  children under 3 yrs  & 1 adult _ages & cause of deaths unknown",,0.936768149882904,423.0
+Fortitude,1855,,59.0,,,Plymouth,Port Adelaide,,,,,,,,59.0
+Velore,1855,,11.0,,,Gravesend,Port Adelaide,,,,,,,,11.0
+Duke of Wellington,1855,,36.0,,,London,Port Adelaide,,,,,,,,36.0
+Flora Kerr,1855,,15.0,,,London & Dartmouth,Port Adelaide,,,,,,,,15.0
+Aliquis,1855,0.0,400.0,,,Liverpool,Port Adelaide,0.0,0.0,0.0,0.0,No Deaths,,0.0,400.0
+Coromandel,1855,4.0,326.0,,,Southampton,Port Adelaide,1.0,1.0,2.0,6.0,"Deaths = 1 infant under 1 yr, 1  child 1 yrs  & 2 adult _ages & cause of deaths unknown",,1.2269938650306749,322.0
+Ann Bridson,1855,,16.0,,,London,Port Adelaide,,,,,,,,16.0
+Taymouth Castle,1855,7.0,308.0,,,Southampton,Port Adelaide,7.0,1.0,1.0,3.0,"Deaths = 7 infants under 1 yr, 1  child under 2 yrs  & 1 adult  male - gamekeeper from Surrey  - Dissenter- died of Variola/ Smallpox virus.  ","1849-1865 deaths on board immigrant ships _State Records ""Deaths on board Immigrant Ships_1849-1865_as published in the South Australian Government Gazette on the 25th of January 1866",2.272727272727273,301.0
+Flora,1855,7.0,330.0,,,Liverpool,Port Adelaide,2.0,4.0,1.0,7.0,"Deaths =  2 infants under 1 yr, 4 children under 11 yrs  &1 adult _ages & cause of deaths unknown",,2.1212121212121215,323.0
+Victoria Regia,1855,4.0,283.0,239.0,44.0,Plymouth,Port Adelaide,1.0,0.0,3.0,3.0,"Deaths =1 infants under 1 yr,   & 1 adult _age & cause of deaths unknown-----1 death due to Smallpox in the port not included in this count. ",,1.4134275618374559,279.0
+Thomas Arbothnot,1855,0.0,253.0,,,Plymouth,Port Adelaide,0.0,0.0,0.0,2.0,No deaths. N =102 Young women - Irish servants ,,0.0,253.0
+David Malcolm,1855,1.0,276.0,,,Plymouth,Port Adelaide,0.0,2.0,0.0,3.0,"Deaths =   child age 4 yrs, Scarlatina.  ",,0.36231884057971014,275.0
+Warren Hastings ,1855,0.0,245.0,,,Southampton & Plymouth,Port Adelaide,0.0,0.0,0.0,3.0,No deaths,,0.0,245.0
+Tiberius,1855,,26.0,,,London,Port Adelaide,,,,,,,,26.0
+Royal Albert,1855,2.0,274.0,,,Plymouth,Port Adelaide,1.0,1.0,0.0,1.0,Deaths =  child age 2 yrs.   ,,0.7299270072992701,272.0
+Rodney,1855,2.0,332.0,256.0,76.0,Plymouth,Port Adelaide,2.0,5.0,0.0,6.0,Deaths = children under 3 yrs. ,,0.6024096385542169,330.0
+Rienzi,1855,,17.0,,,Gravesend,Port Adelaide,,,,,,,,17.0
+Achilles,1855,,15.0,,,Leith,Port Adelaide,,,,,,,,15.0
+Sea Park,1855,1.0,345.0,,,London & Plymouth,Port Adelaide,1.0,0.0,0.0,2.0,Deaths =infant- 8 days,,0.2898550724637681,344.0
+Admiral Boxer,1855,1.0,382.0,,,Liverpool,Port Adelaide,1.0,0.0,0.0,3.0,Death/s = Infants under 1 yr of age only,,0.2617801047120419,381.0
+South Sea,1855,4.0,343.0,,,Plymouth,Port Adelaide,2.0,1.0,1.0,,"Deaths = 2 infants under 1 yr, 1  child under 3 yrs  & 1 adult female age  27 yrs - fever & miscarriage",,1.1661807580174928,339.0
+Sea queen ,1855,,18.0,,,London,Port Adelaide,,,,,,,,18.0
+Velocity,1855,1.0,269.0,,,London & plymouth,Port Adelaide,1.0,0.0,0.0,2.0,Death/s = Infants under 1 yr of age only,,0.37174721189591076,268.0
+Europa,1855,1.0,420.0,,,Birkenhead_Liverpool,Port Adelaide,0.0,0.0,1.0,3.0,Deaths = adult female - (farm servant age 42 yrs) Diarrohea.    ,,0.2380952380952381,419.0
+William Stevenson,1855,4.0,316.0,,,Liverpool,Port Adelaide,0.0,3.0,2.0,3.0,"Deaths =  3 children under 2 yrs,  one adult female death listed as abortion & general debility age 20 yrs",,1.2658227848101267,312.0
+Salsette,1855,,14.0,,,London,Port Adelaide,,,,,,,,14.0
+FitzJames,1855,2.0,430.0,,,Southampton,Port Adelaide,0.0,2.0,0.0,4.0,Deaths = 2 children under 4 yrs - Dysentery.    ,,0.46511627906976744,428.0
+Robert Morrison,1855,,27.0,,,London,Port Adelaide,,,,,,,,27.0
+Punjaub,1855,1.0,279.0,180.0,99.0,Southampton,Port Adelaide,1.0,0.0,0.0,5.0,Death/s = Infants under 1 yr of age only,,0.35842293906810035,278.0
+Oriental,1855,5.0,261.0,200.0,61.0,Southampton,Port Adelaide,1.0,1.0,3.0,2.0,"Deaths = 1 infants under 1 yr, 1  child under 5 yrs  & 3 adult _ages  unknown   Low fever.  ",,1.9157088122605364,256.0
+Northern Light,1855,1.0,429.0,,,Liverpool,Port Adelaide,2.0,1.0,0.0,0.0,Deaths=  child age 1 yr. ,,0.2331002331002331,428.0
+Madawaska,1855,,10.0,,,Plymouth,Port Adelaide,,,,,,,,10.0
+Octavia,1855,7.0,382.0,,,Southampton,Port Adelaide,5.0,2.0,0.0,5.0,"Deaths= 5 infants under 1 yr, 2  children under 3 yr   cause of deaths unknown",,1.832460732984293,375.0
+Magdalena,1855,5.0,324.0,,,Plymouth,Port Adelaide,1.0,2.0,2.0,6.0,"Deaths = 1 infant under 1 yr, 2  children under 2 yrs  & 2 adult _ cause of deaths unknown_79 Irish young women onboard",,1.5432098765432098,319.0
+Niger,1855,,15.0,,,The Downs,Port Adelaide,,,,,,,,15.0
+Loevestein,1855,1.0,57.0,,,London & the Downs,Port Adelaide,0.0,0.0,1.0,,"Deaths =  1 adult =MULLER, Captain BJ (//-24/1/1855) - Died at sea. The Chief Officer, Mr Schaaf, brought the ship into Pt Adelaide Observer 3/3/1855 p72c.",,1.7543859649122806,56.0
+Henry Woolley,1855,,10.0,,,London,Port Adelaide,,,,,,,,10.0
+Lismoyne,1855,2.0,212.0,,,Southampton,Port Adelaide,0.0,2.0,0.0,4.0,Deaths =  2 children  age & cause of death unknown,"1849-1865 deaths on board immigrant ships _State Records ""Deaths on board Immigrant Ships_1849-1865_as published in the South Australian Government Gazette on the 25th of January 1866",0.9433962264150944,210.0
+Bucephalus,1855,4.0,316.0,,,Liverpool,Port Adelaide,0.0,4.0,0.0,2.0,Deaths =  4 children under 3 years. Diarrhoea,,1.2658227848101267,312.0
+Nashwauk,1855,2.0,300.0,,,Liverpool,"Ship wrecked 
+off Moana Beach",0.0,0.0,2.0,,"Deaths  =  adults died of fever._Ship wrecked (grounded & damaged) off the mouth of Pedlar Creek, Moana beach, near Norlunga, SA.12/05/1855. Majority of passengers were from Ireland.
+MCINTYRE, Captain Archibald (//c1818-3/6/1855) - Died Adelaide SA, ‘of anxiety and the effects of exposure while attending to his duties at the wreck of his ship’. Wife and four children at Pt Glasgow to mourn his loss.",Shipwreck account Observer 19/5/1855 p164a Official investigation Observer 2/6/1855 p176c.,0.6666666666666667,298.0
+Mallard,1855,5.0,223.0,,,Southampton,Port Adelaide,4.0,1.0,0.0,2.0,"Deaths =4 infants under 1 yr, 1  child under 3 yrs  cause of deaths unknown",,2.242152466367713,218.0
+Nile,1855,2.0,312.0,,,Plymouth,Port Adelaide,0.0,2.0,0.0,1.0,Death = children under age 3 years,,0.641025641025641,310.0
+Grand Trianon,1855,2.0,360.0,,,Liverpool,Port Adelaide,2.0,0.0,1.0,1.0,,,0.5555555555555556,358.0
+Yssel,1855,1.0,20.0,,,London & plymouth,Port Adelaide,0.0,0.0,1.0,,Death = 1 adult  age & cause of death unknown,,5.0,19.0
+Caroline,1855,13.0,366.0,,,Southampton,Port Adelaide,7.0,5.0,2.0,7.0,"Deaths=7 infants under 1 yr, 5  children under 6 yrs  & 2 adult _ages & cause of deaths unknown",,3.551912568306011,353.0
+Hooghly,1855,15.0,272.0,,,Plymouth,Port Adelaide,4.0,9.0,2.0,7.0,"Deaths=  4 infants under 1 yr, 9 children age 4 yr. 1 x adult female - inflammation of the bowels after confinement & neonate died @ 40 hours old .   ",,5.514705882352941,257.0
+John Banks,1855,3.0,284.0,,,Plymouth,Port Adelaide,3.0,0.0,0.0,6.0,Deaths = 3  infants incl. two premature births  ,,1.056338028169014,281.0
+Marco Polo,1855,,17.0,,,Bristol,Port Adelaide,,,,,,,,17.0
+Norman,1855,0.0,230.0,,,Southampton,Port Adelaide,0.0,0.0,0.0,0.0,No Deaths,,0.0,230.0
+Constantine,1855,1.0,264.0,,,Plymouth,Port Adelaide,0.0,1.0,0.0,2.0,"Deaths =  1 child age 5 yrs, listed as dying of ""rickets"".  ",https://www.archives.sa.gov.au/finding-information/discover-our-collection/migration-and-crew/passenger-lists-1845-1940/passenger-lists-search?queries_year_query=1855,0.3787878787878788,263.0
+Jannet,1855,,11.0,,,London,Port Adelaide,,,,,,,,11.0
+Caucasian,1855,,40.0,,,London,Port Adelaide,,,,,,,,40.0
+Duchess of Northumberland,1856,2.0,246.0,,,Southampton,Port Adelaide,0.0,4.0,1.0,1.0,Deaths =  1  x child age 1 yr& 3 other children_ 1 x7 yrs & 2 x 13 yrs.  & 1 adult -t _ages & cause of deaths unknown,,0.8130081300813009,244.0
+Nabob,1856,5.0,328.0,249.0,79.0,Liverpool,Port Adelaide,4.0,2.0,0.0,4.0,Deaths:  children under 2 yrs. Infants Incl. 2 premature births who died after 2 days.,,1.524390243902439,323.0
+Switzerland,1856,4.0,246.0,179.0,67.0,Southampton,Port Adelaide,1.0,3.0,0.0,3.0,Deaths =  children under 2 yrs,,1.6260162601626018,242.0
+Amazon,1856,1.0,298.0,219.0,79.0,Plymouth,Port Adelaide,0.0,1.0,0.0,0.0,Death = 1 child age 2 yrs inflammation of the lungs. ,,0.33557046979865773,297.0
+Australia,1856,5.0,273.0,,,Plymouth,Port Adelaide,5.0,1.0,0.0,6.0,"Deaths =5 infants under 1 yr,   & 1 child_age & cause of deaths unknown-",,1.8315018315018317,268.0
+Gomelza,1856,1.0,243.0,192.0,51.0,Southampton,Port Adelaide,0.0,0.0,1.0,,Death =1 adult female - Haemoptysis. ,,0.411522633744856,242.0
+Lord Raglan,1856,5.0,294.0,231.0,63.0,Plymouth,Port Adelaide,1.0,0.0,7.0,2.0,"Deaths:1 infants under 1 yr, 7 adults _age  unknown-all adults listed as died from Fever. Deaths in Port = 1 child age 6 yrs & 1 adult not included in this count",,1.7006802721088436,289.0
+Navarino,1856,2.0,210.0,,,Southampton,Port Adelaide,0.0,1.0,1.0,6.0,Deaths =child age  10 yrs & adult female age 24 yrs_pulmonary haemorrhage.,,0.9523809523809524,208.0
+Lord Hungerford,1856,8.0,300.0,240.0,60.0,Plymouth,Port Adelaide,2.0,5.0,1.0,8.0,Deaths: children under 3 yrs ,,2.666666666666667,292.0
+Nimroud,1856,4.0,343.0,,,Southampton,Port Adelaide,0.0,1.0,3.0,4.0,Deaths:  1 child age 11 yrs & 3  adult _ages & cause of deaths unknown,,1.1661807580174928,339.0
+Eliza,1856,6.0,337.0,235.0,102.0,Southampton,Port Adelaide,1.0,4.0,2.0,6.0,Deaths = children under 3 yrs,,1.7804154302670623,331.0
+Violet,1856,5.0,240.0,,,Southampton,Port Adelaide,2.0,2.0,1.0,3.0,"Deaths = children under 3 years, &adult female age 45 yrs - breast cancer. ",,2.083333333333333,235.0
+Walvisch,1856,,52.0,,,London,Port Adelaide,,,,,,,,52.0
+Hooghly,1856,0.0,252.0,193.0,59.0,Plymouth,Port Adelaide,0.0,0.0,0.0,3.0,No deaths,,0.0,252.0
+Aurora,1856,6.0,220.0,161.0,59.0,Southampton,Port Adelaide,1.0,2.0,3.0,3.0,Deaths = children under 2 yrs &   one young lady of 20 yrs who drowned.     ,,2.727272727272727,214.0
+Aliquis,1856,4.0,435.0,337.0,98.0,Plymouth,Port Adelaide,1.0,1.0,1.0,6.0,Deaths = child under 2 yrs.   Death in Port = 1 child under 2 yrs not incl in this count.   ,,0.9195402298850575,431.0
+Blundell,1856,9.0,242.0,176.0,63.0,Southampton,Port Adelaide,1.0,5.0,2.0,4.0,Deaths = children under 6 yrs ,,3.71900826446281,233.0
+Navarino,1857,2.0,221.0,169.0,52.0,Plymouth,Port Adelaide,1.0,1.0,0.0,1.0,"Deaths = =1 infant under 1 yr,   & 1 child_age & cause of deaths unknown-child age 1 yr",,0.904977375565611,219.0
+Monsoon,1857,4.0,398.0,301.0,97.0,Liverpool,Port Adelaide,4.0,0.0,0.0,7.0,Deaths =  4 infants all listed diarrhoea. ,,1.0050251256281406,394.0
+Caucasian,1857,0.0,226.0,196.0,30.0,Plymouth,Port Adelaide,0.0,0.0,0.0,2.0,No deaths,,0.0,226.0
+Marion,1857,1.0,313.0,228.0,85.0,Plymouth,Port Adelaide,0.0,0.0,1.0,3.0,"Deaths=adult male age 40 yrs "" Aluminuria"". ",,0.3194888178913738,312.0
+Burlington,1857,1.0,302.0,232.0,70.0,Plymouth,Port Adelaide,1.0,0.0,0.0,3.0,Death/s = Infants under 1 yr of age only,,0.33112582781456956,301.0
+Lady Ann,1857,1.0,294.0,221.0,73.0,Plymouth,Port Adelaide,0.0,1.0,0.0,3.0,Deaths = child age 1 yr,,0.3401360544217687,293.0
+Gilmore,1857,7.0,270.0,198.0,72.0,Plymouth,Port Adelaide,4.0,1.0,2.0,7.0,"Deaths = 4 infants under 1 yr,    1 child_& 2 adults age & cause of deaths unknown- child age 1 yr ",,2.5925925925925926,263.0
+Omega,1857,5.0,311.0,243.0,68.0,Plymouth,Port Adelaide,4.0,1.0,0.0,4.0,"Deaths = 4 infants incl. one neonate of 10 hrs old listed a cause of death ""over laid"", & 1  child age 1 yr.     ",,1.607717041800643,306.0
+Orient,1857,,67.0,,,London & Plymouth,Port Adelaide,,,,,,,,67.0
+Tantivy,1857,3.0,341.0,277.0,64.0,Liverpool,Port Adelaide,3.0,0.0,0.0,7.0,Death/s = 3 Infants under 1 yr of age only,,0.8797653958944283,338.0
+Carnatic,1857,0.0,284.0,219.0,65.0,Plymouth,Port Adelaide,0.0,0.0,0.0,4.0,No deaths,,0.0,284.0
+Sumner,1857,1.0,270.0,213.0,57.0,Plymouth,Port Adelaide,1.0,0.0,0.0,5.0,Death/s = Infants under 1 yr of age only,,0.3703703703703704,269.0
+Henry Moore,1857,5.0,451.0,333.0,118.0,Plymouth,Port Adelaide,3.0,0.0,2.0,11.0,"Deaths =3 infants under 1 yr,   all infants listed as cause of death ""Aptha"" ",,1.1086474501108647,446.0
+Royal Albert,1857,1.0,260.0,206.0,54.0,Plymouth,Port Adelaide,1.0,0.0,0.0,6.0,Deaths = 1 infant. 6 births,,0.38461538461538464,259.0
+Sir Thomas Gresham,1858,0.0,227.0,196.0,31.0,Plymouth,Port Adelaide,0.0,0.0,0.0,3.0,No deaths,,0.0,227.0
+Stramboul,1858,9.0,347.0,265.0,82.0,Plymouth,Port Adelaide,3.0,4.0,4.0,3.0,"Deaths = 3  infants under 1 yr,   & 4 children_ under 15 yr.& 4 adults age s unknown- Diarrhoea & Fever",,2.5936599423631126,338.0
+Utopia,1858,5.0,342.0,264.0,78.0,Liverpool,Port Adelaide,2.0,2.0,1.0,3.0,Deaths = children under 3 yrs. Measles,,1.461988304093567,337.0
+Storm Cloud,1858,2.0,332.0,261.0,71.0,Plymouth,Port Adelaide,1.0,1.0,0.0,4.0,Deaths =I infant under 1 ytr & 1.child age 1 yr,,0.6024096385542169,330.0
+Confiance,1858,9.0,333.0,261.0,72.0,Plymouth,Port Adelaide,5.0,4.0,0.0,5.0,Deaths = children all 1 yr of age. Diarrhoea,,2.7027027027027026,324.0
+North,1858,3.0,415.0,332.0,83.0,Liverpool,Port Adelaide,2.0,1.0,0.0,5.0,Death = no informtion re age of child or causes of death,,0.7228915662650602,412.0
+Melbourne,1858,11.0,388.0,,,Liverpool,Port Adelaide,7.0,4.0,0.0,5.0,Deaths = children both 1 year. ,,2.8350515463917527,377.0
+Nugget,1858,7.0,394.0,325.0,69.0,Southampton,Port Adelaide,1.0,5.0,1.0,1.0,Deaths = children under 16 yrs. Scarlatina,,1.7766497461928936,387.0
+General Hewitt,1858,5.0,373.0,278.0,95.0,Plymouth,Port Adelaide,2.0,1.0,2.0,8.0,Deaths = child 1 yr- measles. Infant and mother  after premature  childbirth,,1.3404825737265416,368.0
+Bee,1858,6.0,431.0,335.0,96.0,Liverpool,Port Adelaide,2.0,3.0,1.0,3.0,Deaths = Children both 1 yr_ adult female 42 yrs Diarrhoea,,1.3921113689095126,425.0
+Frenchman,1858,5.0,420.0,348.0,72.0,Liverpool,Port Adelaide,2.0,4.0,1.0,4.0,Deaths =  children under 3 yrs. Diarrhoea & pertussis (whooping cough),,1.1904761904761905,415.0
+David Mcivor,1859,5.0,385.0,300.0,85.0,Liverpool,Port Adelaide,4.0,1.0,0.0,2.0,Deaths = child 17 months,,1.2987012987012987,380.0
+North,1859,3.0,415.0,332.0,83.0,Liverpool,Port Adelaide,2.0,1.0,1.0,5.0,Deaths = child age 1 yr. adult died = diarrhoea,,0.7228915662650602,412.0
+Lady Ann,1859,0.0,262.0,,,Plymouth,Port Adelaide,0.0,0.0,0.0,0.0,No deaths,,0.0,262.0
+Clara,1859,9.0,293.0,223.0,70.0,Southampton,Port Adelaide,2.0,3.0,4.0,1.0,Deaths = children under 15 yrs. Tyfus Fever  & Dysentery,,3.0716723549488054,284.0
+Escort,1859,2.0,319.0,253.0,66.0,Liverpool,Port Adelaide,2.0,0.0,0.0,3.0,Death/s = Infants under 1 yr of age only,,0.6269592476489028,317.0
+James Jardine,1859,8.0,351.0,247.0,104.0,Liverpool,Port Adelaide,4.0,0.0,0.0,5.0,The SA Gov Gazeette of 25.01.1866 names 1 adult as died at sea. This is different to the ships log. ( 2 infants died in port),,2.2792022792022792,343.0
+Ramillies,1860,3.0,287.0,223.0,64.0,Plymouth,Port Adelaide,0.0,2.0,1.0,4.0,Deaths = children under 13 yrs.,,1.0452961672473868,284.0
+Dubar,1860,0.0,11.0,10.0,1.0,London,Port Adelaide,0.0,0.0,0.0,0.0,No deaths,,0.0,11.0
+Irene,1860,0.0,21.0,17.0,4.0,London,Port Adelaide,0.0,0.0,0.0,0.0,No deaths,,0.0,21.0
+Alma,1860,0.0,12.0,7.0,5.0,London,Port Adelaide,0.0,0.0,0.0,0.0,No deaths,,0.0,12.0
+Verlum,1860,0.0,13.0,10.0,3.0,London,KI & Port Adelaide,0.0,0.0,0.0,0.0,Made Kangaroo Island in 88 days,,0.0,13.0
+Grand Trianon,1860,1.0,360.0,288.0,72.0,Liverpool,Port Adelaide,0.0,0.0,1.0,2.0,adult female age 50 yrs -diarrhoea,,0.2777777777777778,359.0
+Violet,1860,0.0,12.0,9.0,3.0,London,Port Adelaide,0.0,0.0,0.0,0.0,No deaths,,0.0,12.0
+Schah Jehan,1860,2.0,318.0,,,Plymouth,Port Adelaide,1.0,1.0,0.0,6.0,Death = child 1 yr - died from Gangrene,,0.628930817610063,316.0
+Sir John Lawrence,1862,2.0,305.0,259.0,46.0,Plymouth,Port Adelaide,1.0,0.0,2.0,3.0,Deaths = Mother and infants,,0.6557377049180327,303.0
+Castle Eden,1862,5.0,309.0,271.0,38.0,London,Port Adelaide,0.0,2.0,3.0,1.0,Death = children age 1 yr -,,1.6181229773462782,304.0
+Sir John Lawrence,1863,2.0,312.0,239.0,73.0,London & Plymouth,Port Adelaide,0.0,2.0,0.0,4.0,Deaths =  children 18 mths & 8 yrs.,,0.641025641025641,310.0
+Adamant,1863,3.0,377.0,288.0,89.0,Plymouth,Port Adelaide,2.0,1.0,0.0,6.0,Death = child 1 yr -,,0.7957559681697612,374.0
+Morning Star,1863,14.0,452.0,369.0,83.0,Liverpool,Port Adelaide,5.0,19.0,0.0,4.0,Death = children age range  1 yr -11 yrs Measles & Scarlatina. 1 infant and adult died in the port. news articles_sickness on board BEFORE departure from UK,,3.0973451327433628,438.0
+Mary Shepherd,1863,2.0,375.0,280.0,95.0,Plymouth,Port Adelaide,1.0,0.0,1.0,4.0,,,0.5333333333333333,373.0
+Art Union,1864,12.0,326.0,282.0,44.0,Plymouth,Port Adelaide,4.0,8.0,0.0,4.0,Deaths = children age range 1 - 5 yrs. Measles,,3.6809815950920246,314.0
+Northumberland,1864,2.0,315.0,280.0,35.0,Plymouth,Port Adelaide,0.0,2.0,0.0,7.0,Death = children age 1 yr -,,0.6349206349206349,313.0
+Ocean Chief,1864,1.0,355.0,314.0,41.0,Plymouth,Port Adelaide,1.0,0.0,0.0,3.0,Death/s = Infants under 1 yr of age only,,0.28169014084507044,354.0
+Utopia,1864,1.0,322.0,292.0,30.0,Plymouth,Port Adelaide,1.0,0.0,0.0,4.0,Death/s = Infants under 1 yr of age only,,0.3105590062111801,321.0
+Rockliff,1864,1.0,296.0,261.0,35.0,Plymouth,Port Adelaide,1.0,0.0,0.0,2.0,Death/s = Infants under 1 yr of age only,,0.33783783783783783,295.0
+Adamant,1864,0.0,366.0,329.0,37.0,Plymouth,Port Adelaide,0.0,0.0,0.0,2.0,No deaths,,0.0,366.0
+Tarquin,1864,2.0,273.0,240.0,33.0,Plymouth,Port Adelaide,0.0,1.0,1.0,2.0,Death = child 1 yr -,,0.7326007326007326,271.0
+Eastern Empire,1864,4.0,388.0,316.0,72.0,Plymouth,Port Adelaide,0.0,9.0,1.0,3.0,Deaths = children age range - 1 - 9 yrs Scarlatina. Adult female 19 yrs died in child birth,,1.0309278350515463,384.0
+Clara,1865,7.0,383.0,330.0,53.0,London & Plymouth,Port Adelaide,4.0,3.0,0.0,3.0,Deaths = all children under 2 yrs,,1.8276762402088773,376.0
+Cornwallis,1865,1.0,282.0,226.0,56.0,Plymouth,Port Adelaide,0.0,0.0,1.0,0.0,Deaths = adult female - Phythsis = TB,,0.3546099290780142,281.0
+Electric,1865,12.0,439.0,338.0,101.0,Plymouth,Port Adelaide,9.0,3.0,0.0,4.0,Deaths + Children age range 1 - 5 yrs,,2.733485193621868,427.0
+Gosforth,1865,7.0,388.0,294.0,94.0,London & Plymouth,Port Adelaide,4.0,3.0,0.0,1.0,Deaths = all children under 2 yrs. Diarrhoea,,1.804123711340206,381.0
+Lady Milton,1865,7.0,358.0,263.0,95.0,London & Plymouth,Port Adelaide,3.0,4.0,0.0,11.0,Deaths = all children under 3 yrs. Diarrhoea,,1.9553072625698324,351.0
+Lincoln,1865,6.0,408.0,304.0,104.0,Plymouth,Port Adelaide,4.0,1.0,1.0,3.0,Deaths = child age 1 yr. Adult female age 22 yrs,,1.4705882352941175,402.0
+Coldstream,1865,6.0,295.0,260.0,35.0,Plymouth,Port Adelaide,4.0,2.0,0.0,7.0,Deaths = 2 children age 1 yr and 12 yrs,,2.0338983050847457,289.0
+Peeress,1865,3.0,331.0,294.0,37.0,London & Plymouth,Port Adelaide,1.0,0.0,2.0,3.0,,,0.906344410876133,328.0
+Matilda Atheling,1865,0.0,280.0,252.0,28.0,Plymouth,Port Adelaide,0.0,0.0,0.0,1.0,No deaths,,0.0,280.0
+Norman Morrison,1865,2.0,226.0,168.0,58.0,London & Plymouth,Port Adelaide,2.0,0.0,0.0,5.0,Death/s = Infants under 1 yr of age only,,0.8849557522123894,224.0
+Burlington,1865,3.0,242.0,200.0,42.0,London & Plymouth,Port Adelaide,3.0,0.0,0.0,2.0,Death/s = Infants under 1 yr of age only,,1.2396694214876034,239.0
+Adamant,1865,9.0,387.0,293.0,94.0,Plymouth,Port Adelaide,1.0,6.0,2.0,4.0,Deaths = children 5 x 1 yr old & an 8 yr old. Adults - 25 yr old female died n childbirth & adult female - 33 yrs - drowned after fallingh over board near KI,,2.3255813953488373,378.0
+Maori,1865,4.0,296.0,230.0,66.0,Plymouth,Port Adelaide,3.0,1.0,0.0,1.0,Death = Infant was born & died at sea,,1.3513513513513513,292.0
+Queen Bee,1865,7.0,315.0,228.0,87.0,Plymouth,Port Adelaide,4.0,1.0,2.0,2.0,Deaths = child 1 yr. Dysentery,,2.2222222222222223,308.0
+Peeress,1866,0.0,317.0,275.0,37.0,Plymouth,Port Adelaide,0.0,0.0,0.0,0.0,No deaths,,0.0,317.0
+Charlotte Gladstone,1866,9.0,443.0,369.0,74.0,Plymouth,Port Adelaide,3.0,5.0,1.0,5.0,"Deaths = all children under 6 yrs. Whooping Cough.  Adult female age 20 yrs ""Cachexia"" - wasting in the last stages of an illness",,2.0316027088036117,434.0
+Ernestine,1866,3.0,368.0,311.0,57.0,Plymouth,Port Adelaide,2.0,0.0,1.0,4.0,Death = adult female - aneamia,,0.8152173913043478,365.0
+Salamanca,1866,3.0,368.0,270.0,98.0,Plymouth,Port Adelaide,2.0,1.0,0.0,2.0,Death = child age 1 yr.,,0.8152173913043478,365.0
+Trevelyan,1866,4.0,423.0,330.0,93.0,Plymouth,Port Adelaide,0.0,1.0,3.0,4.0,"Deaths = child age 3 yrs & all adults age range 19-23 yrs died of ""febris"" Fever",,0.9456264775413712,419.0
+Hougoumont,1866,1.0,334.0,283.0,51.0,Plymouth,Port Adelaide,1.0,0.0,0.0,4.0,Death/s = Infants under 1 yr of age only,,0.29940119760479045,333.0
+Prince of Wales ,1866,4.0,366.0,321.0,45.0,Plymouth,Port Adelaide,2.0,1.0,1.0,4.0,Deaths = child 1 yr - bronchitis. Adult male age 22 pneumonia,,1.092896174863388,362.0
+Atlanta,1866,8.0,392.0,308.0,84.0,Plymouth,Port Adelaide,3.0,4.0,1.0,8.0,"Deaths = all children under 4 yrs . Adult male - sailor fell overboard in bad weather_81 days at sea_
+94 labourers, 51 domestic servants, 2 house keepers, 1 dressmaker, 2 porters, 1 draper, 3 gardeners, 7 carpenters, 1 printer, 1 papermaker, 1 widow, 1 police man, 14 ploughmen, 6 miners, 5 blacksmiths, 2 tailors, 
+2 bricklayers, 5 shepherds, 2 masons, 2 grooms, 2 painters, 8 boot makers, 2 butchers, 1 sawyer, 1 quarry man, 1 coachbuilder, 1 saddler, 2 wheelwrights, 1 fitter, 1 waiter, 1 platelayer, 3 cooks.",https://www.theshipslist.com/ships/australia/atalanta1866.shtml,2.0408163265306123,384.0
+British Lion,1866,2.0,428.0,352.0,76.0,London & Plymouth,Port Adelaide,1.0,1.0,0.0,3.0,Deaths = Child 1 yrd old. Diseased knee - injured on embarkation _94 days at sea,,0.46728971962616817,426.0
+Berar,1867,2.0,349.0,311.0,38.0,Plymouth,Port Adelaide,1.0,1.0,0.0,2.0,"Deaths = child age 2 yrs - fever.   Infant death due to premture birth_____87 days at sea
+Agricultural laborers 68, baker 1, blacksmith 2, bootmaker1, bricklayers 3. butchers 2, carpenters 9, carter 1,copper-smelters 8, dairymaids 2, dressmakers 2, farmer 1, fitter 1, gardeners 2, general servants 76, groom 1, hatter 1, housekeeper 1, joiner 1, labourers 33, masons 2, matron 1, mine laborers 2, miners 12, moulder 1, painters 2. plasterers 2, ploughmen 2, quarrymen 2, saddler 1, sawyers 3, schoolmistress 1, shepherds 2, tailors 2, turner1, wheelwright 1.",,0.5730659025787965,347.0
+Canterbury,1867,3.0,441.0,371.0,70.0,Plymouth,Port Adelaide,3.0,0.0,0.0,7.0,Death/s = Infants under 1 yr of age only,,0.6802721088435374,438.0
+"S.S. Gresham/ 
+renamed Penola",1869,4.0,380.0,320.0,60.0,Plymouth,Port Adelaide,3.0,0.0,1.0,2.0,Death = adult sailor drowned,,1.0526315789473684,376.0
+"S.S. Great Britain / 
+renamed S.S. Aldinga",1869,1.0,56.0,39.0,17.0,Plymouth,Port Adelaide,0.0,0.0,1.0,0.0,Death = adult male passenger - fell overboard & drowned. Inquiry as no lifeboat was lowered to rescue him.,,1.7857142857142856,55.0
+Collingrove,1870,,19.0,13.0,6.0,London,Port Adelaide,,,,,,,,19.0
+Hugh Fortesque,1870,,19.0,,,London,Port Adelaide,,,,,,,,19.0
+White Eagle ,1871,,19.0,19.0,0.0,London & Plymouth ,Port Adelaide,,,,,,,,19.0
+Kirkham,1873,3.0,29.0,22.0,7.0,London,Port Adelaide,0.0,3.0,0.0,0.0,Deaths = childre age range 2-7 yrs. ,,10.344827586206897,26.0
+St Vincent,1873,0.0,29.0,22.0,7.0,Plymouth,Port Adelaide,0.0,0.0,0.0,0.0,No Deaths,,0.0,29.0
+City of Adelaide,1873,0.0,86.0,68.0,18.0,Plymouth,Port Adelaide,0.0,0.0,0.0,0.0,No Deaths,,0.0,86.0
+South Australian,1873,0.0,22.0,20.0,2.0,Plymouth,Port Adelaide,0.0,0.0,0.0,0.0,No Deaths,,0.0,22.0
+Dunkeld,1873,0.0,22.0,14.0,8.0,London,Port Adelaide,0.0,0.0,0.0,0.0,No Deaths,,0.0,22.0
+Iron King,1873,0.0,30.0,19.0,11.0,London,Run aground at  Troubridge Shoul nr Port Adelaide,0.0,0.0,0.0,0.0,No Deaths,,0.0,30.0
+Asterope,1873,0.0,12.0,9.0,3.0,London,Port Adelaide,0.0,0.0,0.0,0.0,No Deaths,,0.0,12.0
+Hespurus,1874,9.0,416.0,290.0,126.0,Plymouth,Port Adelaide,1.0,8.0,0.0,2.0,Deaths = children age range 1- 4 yrs - 5 children causes of death = Bronchitis following measles ,,2.1634615384615383,407.0
+Dinapore,1874,0.0,36.0,25.0,11.0,London,Port Adelaide,0.0,0.0,0.0,1.0,No deaths,,0.0,36.0
+Darra,1874,0.0,35.0,26.0,9.0,London & the Downs,Port Adelaide,0.0,0.0,0.0,0.0,No deaths,,0.0,35.0
+Forefarshire,1874,4.0,509.0,346.0,163.0,Plymouth,Port Adelaide,2.0,1.0,1.0,7.0,"Deaths = child age 1 yr. one premature birth. Adult male age 50 yrs cause of death = Angina Pectoris. 
+Agricultural laborers 107, bricklayers 4, boiler maker 1, blacksmith I, coachmaker I, carpenters 7, cabinetmakers 2, carrier 1, coachtrimmer 1, cooks 4, domestic servants 48, dairyman 1, grooms 2, gardeners 8, gasfitter 1, housemaids 7, laborers 35, laundress 1, metalworkers 3, miners 13,
+ miller 1, matron 1, mathematical instrument-maker 1, nursemaids 3, painters 4, plasterers 2, page 1, porter 1, railway porters 2, stonemason I, shepherds 2, shoemakers 2, tin dressers 2.",https://www.theshipslist.com/ships/australia/forfarshire1874.shtml,0.7858546168958742,505.0
+Limari,1874,0.0,25.0,13.0,12.0,London,Port Adelaide,0.0,0.0,0.0,0.0,No deaths,,0.0,25.0
+Western Australia,1874,0.0,20.0,16.0,4.0,London,Port Adelaide,0.0,0.0,0.0,0.0,No deaths,,0.0,20.0
+Pak Wan,1874,0.0,26.0,22.0,4.0,London,Port Adelaide,0.0,0.0,0.0,0.0,No deaths,,0.0,26.0
+City of Adelaide,1874,7.0,257.0,195.0,62.0,Plymouth,Run aground between Henley & Semaphone Beach,4.0,1.0,3.0,1.0,,,2.7237354085603114,250.0
+St Vincent,1874,4.0,336.0,245.0,91.0,Plymouth,Port Adelaide,3.0,1.0,0.0,5.0,Deaths = child age 2 yrs. Cholera/ dystentery,,1.1904761904761905,332.0
+Murray,1874,0.0,33.0,22.0,11.0,London,Port Adelaide,0.0,0.0,0.0,0.0,,,0.0,33.0
+Earl Dalhousie,1874,7.0,384.0,281.0,103.0,London,Port Adelaide,3.0,4.0,0.0,4.0,Deaths = children age range - 1-4 yrs. Diarrhoea & Convulsions,,1.8229166666666667,377.0
+City of Benares,1874,0.0,44.0,31.0,13.0,London,Port Adelaide,0.0,0.0,0.0,1.0,No deaths,,0.0,44.0
+Glenlyon,1874,0.0,23.0,17.0,6.0,London,Port Adelaide,0.0,0.0,0.0,0.0,No deaths,,0.0,23.0
+Marlborough,1875,2.0,34.0,21.0,13.0,London,Port Adelaide,0.0,0.0,2.0,0.0,"Deaths= Dr T. Donovan - ship's' Superintendant surgeon - died of ""dropsy"" a young man. Also, adult male sailor died from stab wound inflicted by a swedish seaman - found guilty of MURDER then reduced to manslaughter 
+& 12 mths in prison.","The South Australian Register, Saturday 13 February 1875 p. 3
+The South Australian Register, Tuursday 25 March 1875 p. 3",5.88235294117647,32.0
+Hesperides,1875,3.0,396.0,343.0,53.0,Plymouth,Port Adelaide,1.0,1.0,1.0,2.0,"Deaths = Child age 9 yrs = ""Severe cold"" & adult male Dr Blood = ""Consumprion"".",,0.7575757575757576,393.0
+Lady Jocelyn,1875,2.0,508.0,419.0,89.0,London & Plymouth ,Port Adelaide,2.0,0.0,0.0,2.0,Death/s = Infants under 1 yr of age only,,0.39370078740157477,506.0
+Trevelyan,1875,2.0,299.0,235.0,64.0,Plymouth,Port Adelaide,2.0,0.0,0.0,0.0,,,0.6688963210702341,297.0
+Homewood,1875,0.0,37.0,27.0,10.0,London,Port Adelaide,0.0,0.0,0.0,0.0,No deaths,,0.0,37.0
+Caitloch,1875,0.0,39.0,26.0,13.0,London,Port Adelaide,0.0,0.0,0.0,1.0,No deaths,,0.0,39.0
+Western Australia,1875,0.0,21.0,16.0,5.0,London,Port Adelaide,0.0,0.0,0.0,0.0,No deaths,,0.0,21.0
+Earl Dalhousie,1875,2.0,307.0,245.0,62.0,Plymouth,Port Adelaide,1.0,1.0,0.0,4.0,"Deaths = premature birth. Child age 1 yr ""Detention, Pulmonary effusion, Suffocation""",,0.6514657980456027,305.0
+North,1875,7.0,426.0,327.0,99.0,London,Port Adelaide,2.0,4.0,1.0,1.0,"Deaths = children age range 1- 3 yrs. Marasmus & Tuberculus meningitis. Adult female age 18 or 19 yrs, housemaid from Ireland = ""acute Melancholia"" ",,1.643192488262911,419.0
+City of Madras,1876,0.0,30.0,28.0,2.0,London,Port Adelaide,0.0,0.0,0.0,0.0,All the passengers were males age range 17- 26 yrs various skilled trades & labourers,,0.0,30.0
+Lightning,1876,2.0,406.0,312.0,94.0,Plymouth,Port Adelaide,1.0,0.0,1.0,4.0,Deaths = infant - premature birth. Adult male 37 yrs - heart disease,,0.49261083743842365,404.0
+Apelles,1876,0.0,26.0,23.0,3.0,London,Port Adelaide,0.0,0.0,0.0,0.0,All the passengers were males age range 17- 35 yrs various skilled trades & labourers,,0.0,26.0
+City of Paris,1876,0.0,32.0,27.0,5.0,London,Port Adelaide,0.0,0.0,0.0,0.0,No deaths,,0.0,32.0
+Hesperides,1876,14.0,464.0,348.0,116.0,Plymouth,Port Adelaide,8.0,5.0,1.0,1.0,"Deaths = children age range 2-7 yrs. Adult female ""Morbid Cordis"" - heart condition",,3.0172413793103448,450.0
+Hesperus,1876,,28.0,28.0,0.0,London,Port Adelaide,,,,,,,,28.0
+Lady Jocelyn,1876,13.0,655.0,468.0,187.0,Plymouth,Port Adelaide,8.0,4.0,1.0,11.0,Deaths = no information re ages or causes,,1.984732824427481,642.0
+Glenavon,1876,,22.0,22.0,0.0,London,Port Adelaide,,,,,,,,22.0
+Sir John Lawrence,1876,0.0,26.0,26.0,0.0,London,Port Adelaide,0.0,0.0,0.0,0.0,All the passengers were males age range 18- 37 yrs various skilled trades & labourers,,0.0,26.0
+Northern Monarch,1876,1.0,404.0,306.0,98.0,Plymouth,Port Adelaide,0.0,1.0,0.0,6.0,Death = child 2.5 yrs bonchititis,,0.24752475247524752,403.0
+City of Adelaide,1876,0.0,31.0,16.0,15.0,London,Port Adelaide,0.0,0.0,0.0,0.0,No deaths,,0.0,31.0
+Erato,1876,6.0,419.0,305.0,114.0,Plymouth,Port Adelaide,5.0,1.0,0.0,8.0,"Deaths = one infant - ""still born but susequentley recovered  & was found dead in bed. Postmortem revealed inflamation of left ventricle of the heart"". Child 8 yrs of age = diarrhoea. ",,1.431980906921241,413.0
+Canrnaquheen,1876,0.0,20.0,20.0,0.0,London,Port Adelaide,0.0,0.0,0.0,0.0,All the passengers were males age range 18- 30 yrs various skilled trades & labourers,,0.0,20.0
+Trevelyan,1876,2.0,344.0,269.0,75.0,Plymouth,Port Adelaide,0.0,2.0,0.0,6.0,Deaths = children age 1-1.5 yrs.,,0.5813953488372093,342.0
+Duntrune,1876,13.0,497.0,363.0,134.0,Plymouth,Port Adelaide,4.0,9.0,0.0,2.0,"Deaths = childre age range 1- 10yrs. One 7.5 yr old boy fell overboard. Malnutrition, bronchitis & pneaumonia also listed",,2.61569416498994,484.0
+Golden Sea,1876,18.0,424.0,321.0,93.0,Plymouth,Port Adelaide,5.0,10.0,3.0,5.0,Deaths = children age range 1-6 yrs. Scarlet fever -news article comments that the vessel was clean with good ventilation,https://trove.nla.gov.au/newspaper/article/31967066,4.245283018867925,406.0
+Bundaleer,1876,0.0,27.0,27.0,0.0,London,Port Adelaide,0.0,0.0,0.0,0.0,No deaths,,0.0,27.0
+Oaklands,1876,5.0,378.0,256.0,122.0,Plymouth,Port Adelaide,2.0,3.0,0.0,6.0,Deaths = one infant - premature birth. Children all 1 yr of age.,,1.3227513227513228,373.0
+Craigendarroch,1876,0.0,30.0,30.0,0.0,London,Port Adelaide,0.0,0.0,0.0,0.0,All the passengers were males age range 18- 35 yrs various skilled trades & labourers,,0.0,30.0
+Monaltrie,1876,0.0,30.0,30.0,0.0,London,Port Adelaide,0.0,0.0,0.0,0.0,All the passengers were males age range 18- 36 yrs various skilled trades & labourers,,0.0,30.0
+Bencleuch,1876,3.0,443.0,326.0,117.0,London,Port Adelaide,2.0,1.0,0.0,4.0,"Deaths = two infants still born. Child age 7 yrs listed as ""Lost overboard""",,0.6772009029345373,440.0
+Hydaspes,1876,3.0,665.0,491.0,174.0,Plymouth,Port Adelaide,3.0,0.0,0.0,8.0,Death/s = Infants under 1 yr of age only,,0.4511278195488722,662.0
+Darra,1876,0.0,30.0,30.0,0.0,London,Port Adelaide,0.0,0.0,0.0,0.0,All the passengers were males age range 18- 34 yrs various skilled trades & labourers,,0.0,30.0
+Argonaut,1876,0.0,30.0,29.0,1.0,London,Port Adelaide,0.0,0.0,0.0,0.0,All the passengers were males age range 16- 30 yrs various skilled trades & labourers,,0.0,30.0
+Astracan,1876,9.0,373.0,286.0,87.0,Plymouth,Port Adelaide,6.0,1.0,2.0,4.0,"Deaths = note in news article that "" five of the persons who died embarked in a delicate state of health"".",https://trove.nla.gov.au/newspaper/article/31971493 news article Thurs 27.07.1876. page 6,2.4128686327077746,364.0
+City of Berlin,1876,0.0,33.0,28.0,5.0,London,Port Adelaide,0.0,0.0,0.0,0.0,No deaths,,0.0,33.0
+South Australian,1876,0.0,10.0,10.0,0.0,London,Port Adelaide,0.0,0.0,0.0,0.0,All the passengers were males age range 22- 35 yrs various skilled trades & labourers,,0.0,10.0
+City of Nankin,1876,,28.0,28.0,0.0,London,Port Adelaide,,,,,,,,28.0
+Star of the North,1876,,16.0,16.0,0.0,London,Port Adelaide,,,,,All the passengers were males age range 18- 38 yrs various skilled trades & labourers,,,16.0
+Arundel Castle,1876,3.0,361.0,254.0,107.0,Plymouth,Port Adelaide,2.0,1.0,0.0,5.0,Deaths = child 4 yrs = convulsions,,0.8310249307479225,358.0
+Benan,1876,2.0,379.0,284.0,95.0,Plymouth,Port Adelaide,2.0,0.0,0.0,1.0,Death/s = Infants under 1 yr of age only,,0.5277044854881267,377.0
+Orient,1876,0.0,16.0,16.0,0.0,London,Port Adelaide,0.0,0.0,0.0,0.0,All the passengers were males age range 21- 35 yrs various skilled trades & labourers,,0.0,16.0
+Glen Osmond,1876,0.0,20.0,19.0,1.0,London,Port Adelaide,0.0,0.0,0.0,0.0,All the passengers were males age range 17- 37 yrs various skilled trades & labourers,,0.0,20.0
+Clyde,1876,16.0,413.0,307.0,106.0,Plymouth,Port Adelaide,6.0,8.0,1.0,5.0,Deaths = children age range - 1-6 yrs. Adult 37yrs pneaumonia,,3.87409200968523,397.0
+Star of Erin,1876,,27.0,23.0,4.0,London,Port Adelaide,,,,,,,,27.0
+Ardenconnel,1876,0.0,10.0,10.0,0.0,London,Port Adelaide,0.0,0.0,0.0,0.0,All the passengers were males age range 21- 36 yrs various skilled trades & labourers,,0.0,10.0
+Dilbhur,1876,0.0,34.0,33.0,1.0,London,Port Adelaide,0.0,0.0,0.0,0.0,All the passengers were males age range 17- 37 yrs various skilled trades & labourers,,0.0,34.0
+Forfarshire,1876,12.0,410.0,297.0,113.0,Plymouth,Port Adelaide,3.0,9.0,0.0,2.0,Deaths = one infant born but died. Children age range 1-4 yrs. Measles,,2.9268292682926833,398.0
+Tantallion Castle,1876,0.0,32.0,32.0,0.0,London,Port Adelaide,0.0,0.0,0.0,0.0,All the passengers were males age range 19- 35 yrs various skilled trades & labourers,,0.0,32.0
+Darra,1877,0.0,26.0,26.0,0.0,London,Port Adelaide,0.0,0.0,0.0,0.0,All the passengers were males age range 19- 36 yrs various skilled trades & labourers,,0.0,26.0
+Mangalore,1877,,36.0,29.0,7.0,London,Port Adelaide,,,,,,,,36.0
+Queen of Nations,1877,4.0,266.0,209.0,57.0,Plymouth,Port Adelaide,3.0,1.0,0.0,3.0,"Deaths = child age 5 yrs. ""Diphtheria inflammation of throat""",,1.5037593984962405,262.0
+Forfarshire,1877,2.0,401.0,301.0,100.0,Plymouth,Port Adelaide,2.0,0.0,0.0,4.0,Death/s = Infants under 1 yr of age only,,0.4987531172069825,399.0
+John Rennie,1877,0.0,27.0,27.0,0.0,London,Port Adelaide,0.0,0.0,0.0,0.0,All the passengers were males age range 18- 43 yrs various skilled trades & labourers,,0.0,27.0
+Pak Wan,1877,0.0,20.0,19.0,1.0,London,Port Adelaide,0.0,0.0,0.0,0.0,All the passengers were males age range 17- 46 yrs various skilled trades & labourers,,0.0,20.0
+Alnwick Castle,1877,,29.0,22.0,7.0,London,Port Adelaide,,,,,,,,29.0
+Alumbagh,1877,5.0,355.0,260.0,95.0,Plymouth,Port Adelaide,2.0,3.0,0.0,3.0,Deaths = no information re ages or causes,,1.4084507042253522,350.0
+Eaton Hall,1877,0.0,43.0,41.0,2.0,London,Port Adelaide,0.0,0.0,0.0,0.0,All the passengers were males age range 17- 39 yrs various skilled trades & labourers,,0.0,43.0
+Franes thorpe,1877,,43.0,36.0,7.0,London,Port Adelaide,,,,,,,,43.0
+Western Australia,1877,,19.0,18.0,1.0,London,Port Adelaide,,,,,,,,19.0
+Arlie,1877,6.0,463.0,358.0,105.0,Plymouth,Port Adelaide,5.0,1.0,0.0,5.0,"Deaths = two infants died a 4 days & 6 days old (twins) surgeons comments ""both children were ill developed both …convulsions"".   child age 2 yrs. Diarrhoea & convilsions",,1.2958963282937366,457.0
+Cuzco,1877,0.0,49.0,47.0,2.0,London & Plymouth,Port Adelaide,0.0,0.0,0.0,0.0,All the passengers were males age range 15- 36 yrs various skilled trades & labourers,0,0.0,49.0
+Hamlet,1877,0.0,36.0,32.0,4.0,London,Port Adelaide,0.0,0.0,0.0,0.0,All the passengers were males age range 17- 46 yrs various skilled trades & labourers,,0.0,36.0
+Harbinger,1877,0.0,32.0,32.0,0.0,London & Plymouth,Port Adelaide,0.0,0.0,0.0,0.0,All the passengers were males age range 19- 34 yrs various skilled trades & labourers,,0.0,32.0
+Kirkham,1877,1.0,22.0,21.0,1.0,London,Port Adelaide,0.0,0.0,1.0,0.0,"Death = adult male age 28 yrs = cause not stated.
+ All the passengers were males age range 17- 37 yrs various skilled trades & labourers",,4.545454545454546,21.0
+Rodney,1877,3.0,448.0,381.0,67.0,Plymouth,Port Adelaide,1.0,2.0,0.0,1.0,Deaths = children age range 7-16 yrs.,,0.6696428571428571,445.0
+Oaklands,1877,4.0,338.0,247.0,91.0,Plymouth,Port Adelaide,2.0,1.0,1.0,11.0,"Deaths = Child 2 yrs. Two  premature births & one adult female (mother) who died in childbirth ""Haemorrhage cased by planceta…?""",,1.183431952662722,334.0
+Torrens,1877,,22.0,15.0,7.0,London,Port Adelaide,,,,,,,,22.0
+Stad Amsterdamn,1877,,40.0,31.0,9.0,London,Port Adelaide,,,,,,,,40.0
+British Enterprise,1877,11.0,440.0,333.0,107.0,Plymouth,Port Adelaide,4.0,7.0,0.0,4.0,Deaths = no information re ages or causes,,2.5,429.0
+Lochee,1877,26.0,524.0,398.0,126.0,Plymouth,Port Adelaide,6.0,14.0,6.0,3.0,"Deaths = infants include one still born. Child 1-12 yrs. Bronchitis, Anascara, phthisis",,4.961832061068702,498.0
+Scottish Lassie,1878,1.0,273.0,219.0,54.0,Plymouth,Port Adelaide,0.0,1.0,0.0,3.0,Deaths = child 2 yrs diarrhoea,,0.3663003663003663,272.0
+Chimborazo,1878,0.0,40.0,37.0,3.0,London,Port Adelaide,0.0,0.0,0.0,0.0,All the passengers were males age range 16- 35 yrs various skilled trades & labourers,,0.0,40.0
+Camperdown,1878,9.0,476.0,362.0,114.0,Plymouth,Port Adelaide,7.0,1.0,1.0,3.0,Deaths = one premature infant. Child 1 yr old & adult age 21 yrs - Diarrhoea,,1.8907563025210083,467.0
+Overdale,1878,0.0,27.0,26.0,1.0,Dundee,Port Adelaide,0.0,0.0,0.0,0.0,All the passengers were males age range 17- 34 yrs various skilled trades & labourers,,0.0,27.0
+Clyde,1878,9.0,377.0,284.0,93.0,Plymouth,Port Adelaide,6.0,3.0,0.0,2.0,Deaths = children both 2 yrs . Diarrhoea listed multiple times,,2.3872679045092835,368.0
+Oaklands,1878,3.0,384.0,261.0,123.0,Plymouth,Port Adelaide,3.0,3.0,0.0,3.0,Deaths = children age 1-4 yrs. Diarrhoea,,0.78125,381.0
+Hesperus,1878,5.0,593.0,439.0,154.0,Plymouth,Port Adelaide,0.0,4.0,1.0,6.0,Deaths = hand writing unreadable ,,0.8431703204047217,588.0
+Rodney - 2nd voyage,1878,3.0,510.0,365.0,145.0,Plymouth,Port Adelaide,3.0,0.0,0.0,7.0,Death/s = Infants under 1 yr of age only,,0.5882352941176471,507.0
+Aconagua,1878,0.0,39.0,39.0,0.0,London,Port Adelaide,0.0,0.0,0.0,0.0,All the passengers were males age range 18- 39 yrs various skilled trades & labourers,,0.0,39.0
+Garonne,1878,0.0,40.0,40.0,0.0,London,Port Adelaide,0.0,0.0,0.0,0.0,All the passengers were males age range 19- 37 yrs various skilled trades & labourers,,0.0,40.0
+Loch Awe,1878,0.0,31.0,31.0,0.0,London,Port Adelaide,0.0,0.0,0.0,0.0,All the passengers were males age range 18- 34 yrs various skilled trades & labourers,,0.0,31.0
+Cuzco - 2nd voyage,1878,0.0,40.0,38.0,2.0,London & Weymouth,Port Adelaide,0.0,0.0,0.0,0.0,All the passengers were males age range 17- 34 yrs various skilled trades & labourers,,0.0,40.0
+Lusitania - 2nd voyage,1878,0.0,40.0,39.0,1.0,London & Plymouth,Port Adelaide,0.0,0.0,0.0,0.0,All the passengers were males age range 17- 34 yrs various skilled trades & labourers,,0.0,40.0
+Chimborazo -2nd voyage,1878,0.0,40.0,39.0,1.0,London,Port Adelaide,0.0,0.0,0.0,0.0,All the passengers were males age range 17- 36 yrs various skilled trades & labourers,,0.0,40.0
+Lusitania,1878,0.0,41.0,40.0,1.0,London,Port Adelaide,0.0,0.0,0.0,0.0,All the passengers were males age range 17- 30 yrs various skilled trades & labourers,,0.0,41.0
+Cuzco,1878,0.0,40.0,40.0,0.0,London,Port Adelaide,0.0,0.0,0.0,0.0,All the passengers were males age range 18- 30 yrs various skilled trades & labourers,,0.0,40.0
+Largo Bay,1878,6.0,362.0,258.0,104.0,Glasgow,Port Adelaide,4.0,2.0,0.0,7.0,Deaths = children both 1 yr of age. Diarrhoea,,1.6574585635359116,356.0
+Hyderabad,1878,7.0,407.0,310.0,97.0,London,Port Adelaide,4.0,3.0,0.0,2.0,Deaths = children all 1 yr of age. Diarrhoea,,1.71990171990172,400.0
+Aconagua_2nd voyage,1878,0.0,40.0,40.0,0.0,London & Plymouth,Port Adelaide,0.0,0.0,0.0,0.0,All the passengers were males age range 18- 33 yrs various skilled trades & labourers,,0.0,40.0
+Loch Fynn,1879,10.0,436.0,288.0,148.0,Greenock,Port Adelaide,6.0,3.0,1.0,6.0,Deaths = children age 1-3 yrs. Adult  male age 22 yrs Rheurmatic rever. Two Premature births,,2.293577981651376,426.0
+Salisbury,1879,3.0,376.0,283.0,93.0,Plymouth,Port Adelaide,1.0,2.0,0.0,4.0,Deaths = children age range 1.5- 2.5 yrs. Diarrhoea,,0.7978723404255319,373.0
+Star of India,1879,8.0,365.0,265.0,100.0,Plymouth,Port Adelaide,5.0,2.0,1.0,6.0,"Deaths =  three infants died due to premature birth. two children 19 months & 6.5 yrs. Scarlet fever. Adult female age 23yrs premature confinement & haemorrhage. One birth was during a heavy Storm. Surgeon noted that he had 
+to strap patient (mother) to bed for the deliver as the ship was leerching heavily from side to side. ",,2.191780821917808,357.0
+Oaklands,1879,5.0,415.0,263.0,152.0,Glasgow,Port Adelaide,2.0,3.0,0.0,9.0,Deaths = infants incl. two born prematurely. Children age 1-2 years.all had Measles,,1.2048192771084338,410.0
+John Elder,1879,0.0,30.0,28.0,2.0,London,Port Adelaide,0.0,0.0,0.0,0.0,All the passengers were males age range 17- 29 yrs various skilled trades & labourers,,0.0,30.0
+Garonne,1879,2.0,413.0,,,Plymouth,Port Adelaide,2.0,0.0,0.0,,,https://trove.nla.gov.au/newspaper/article/70971734,0.48426150121065376,411.0
+Holmsdale,1879,8.0,364.0,,,Plymouth,Port Adelaide,2.0,6.0,1.0,3.0,"Deaths =- incls one still born infant. Children age range 2.5 -8 yrs. Diptheria & croup listed. *one 6 .5 yr old child surgeon comments ""croup - accelerated by suffication with pudding (sic)""",,2.197802197802198,356.0
+Chimborazo,1879,0.0,43.0,43.0,0.0,London & Plymouth,Port Adelaide,0.0,0.0,0.0,0.0,All the passengers were males age range 19- 35 yrs various skilled trades & labourers,,0.0,43.0
+Trevelyan,1879,6.0,355.0,253.0,102.0,Plymouth,Port Adelaide,2.0,4.0,0.0,2.0,Deaths = chilren age range 14 months - 6 yrs. Fever listed 3 times,,1.6901408450704223,349.0
+Woodlark ,1879,0.0,290.0,223.0,67.0,Plymouth,Port Adelaide,0.0,0.0,0.0,2.0,No Deaths,,0.0,290.0
+Lusitania,1879,,37.0,,,Plymouth,Port Adelaide,,,,,,,,37.0
+Durham,1879,3.0,392.0,290.0,102.0,Plymouth,Port Adelaide,1.0,2.0,0.0,1.0,Deaths = children age 2 - 3.5 yrs - croup listed,,0.7653061224489796,389.0
+Corona,1880,2.0,369.0,298.0,71.0,Plymouth,Port Adelaide,0.0,2.0,0.0,0.0,Deaths = children both 1 yr of age. Whooping cough & convulsions,,0.5420054200542005,367.0
+Devon ,1880,,398.0,293.0,105.0,Plymouth,Port Adelaide,,,,,,,,398.0
+Stirlingshire,1881,,413.0,332.0,81.0,Plymouth,Port Adelaide,,,,,,,,413.0
+Star of India,1881,5.0,359.0,262.0,97.0,Plymouth,Port Adelaide,1.0,3.0,1.0,4.0,"Deaths = children age 1-2 yrs. Measles, Whooping cough & Bronchitis listed. Adults female age 29 yrs  - heart & kidney disease.",,1.392757660167131,354.0
+Clyde,1882,2.0,324.0,287.0,37.0,Plymouth,Port Adelaide,2.0,0.0,0.0,1.0,Death/s = Infants under 1 yr of age only,,0.6172839506172839,322.0
+Corona,1882,2.0,373.0,280.0,93.0,Plymouth,Port Adelaide,1.0,1.0,0.0,1.0,Deaths = child age 1 yr = Measles,,0.5361930294906166,371.0
+Nebo,1882,2.0,416.0,318.0,98.0,Plymouth,Port Adelaide,5.0,0.0,0.0,5.0,Death/s = Infants under 1 yr of age only,,0.4807692307692308,414.0
+Arthurstone,1883,2.0,337.0,290.0,47.0,Plymouth,Port Adelaide,0.0,2.0,0.0,1.0,Deaths = children listed as 22 months & 40 months (3 yrs & 4 mth ). Acute bronchitis following Measles,,0.5934718100890208,335.0
+Cicero,1883,0.0,368.0,264.0,104.0,Plymouth,Port Adelaide,0.0,0.0,0.0,0.0,No Deaths,,0.0,368.0
+Romsdale,1883,10.0,553.0,379.0,174.0,Plymouth,Port Adelaide,4.0,6.0,0.0,6.0,"Deaths = children age 1.5 yrs - 20 months. Tuberculosis, suffocation, diarrhoea, bronchitis listed. ",,1.8083182640144666,543.0
+Glamis,1883,6.0,392.0,276.0,116.0,Plymouth,Port Adelaide,3.0,2.0,1.0,4.0,Deaths = children age 1 yr & 3 yrs old. Diarrhoea & Croup respectively. Adult female age 18 yrs - acute inflammation?,,1.530612244897959,386.0
+Aldergrove,1883,0.0,401.0,283.0,118.0,Plymouth,Port Adelaide,0.0,0.0,0.0,4.0,No Deaths,,0.0,401.0
+Dundee,1883,5.0,564.0,411.0,153.0,Plymouth,Port Adelaide,4.0,1.0,0.0,6.0,"Deaths = one infant born at sea ( approx 2 weeks old) found dead in mothers arms - Surgeoon notes ""suffocation?"". child age 3 yrs - exhaustion from severe vomiting.",,0.8865248226950355,559.0
+Hesperus,1883,6.0,602.0,428.0,174.0,Plymouth,Port Adelaide,4.0,1.0,1.0,7.0,"Deaths = child age 2 yrs - croup. Adult female age 34 yrs - enteritis but also noted ""gave birth to female child Augst 1st"" she died on Aug 5th. Infant of this woman also died age 11 days. ",,0.9966777408637874,596.0
+Berar,1883,5.0,292.0,215.0,77.0,Plymouth,Port Adelaide,4.0,0.0,1.0,1.0,Deaths = adult male 18 yrs - Phthisis,,1.7123287671232876,287.0
+Ashmore,1883,3.0,374.0,278.0,96.0,Plymouth,Port Adelaide,0.0,0.0,3.0,5.0,"Deaths = infants inmcl one still born child - surgeon notes  ""born between 7-8 months of pregnancy"". Three aduklt age range 30-48 yrs all listed as Phthisis - surgeons notes  for the 48 yr old male ""should not have taken him but was paid passge money"".",,0.8021390374331552,371.0
+Hesperuas,1884,1.0,450.0,342.0,108.0,Plymouth,Port Adelaide,0.0,1.0,0.0,2.0,Death = child 1 yr. Tabes Mesenterica - TB,,0.2222222222222222,449.0
+Ashmore,1884,1.0,389.0,285.0,104.0,Plymouth,Port Adelaide,0.0,0.0,1.0,1.0,Death = adult male age 23 yrs - Pneumonia,,0.2570694087403599,388.0
+Ashmore,1885,1.0,293.0,245.0,48.0,Plymouth,Port Adelaide,1.0,0.0,0.0,1.0,Death/s = Infants under 1 yr of age only,,0.3412969283276451,292.0
